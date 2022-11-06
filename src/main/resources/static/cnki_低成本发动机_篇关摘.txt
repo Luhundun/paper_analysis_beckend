@@ -1,0 +1,2739 @@
+RT Journal Article
+K1 混合动力专用发动机
+YR 2021
+
+RT Journal Article
+K1 天然气;均质压燃;废气再循环策略;进气道喷水;添加剂;负荷拓展
+YR 2021
+
+RT Journal Article
+K1 精准推送;行为分析;精准测评;知识交互;航天企业
+YR 2021
+
+RT Journal Article
+K1 汽车发动机曲轴连杆;钛合金;高强度抗疲劳
+YR 2021
+
+RT Journal Article
+K1 返回料清洗;三联真空熔炼;均匀化退火;锻造
+YR 2019
+
+RT Journal Article
+K1 发动机;涡喷;航空;关键技术
+YR 2018
+
+RT Journal Article
+K1 油底壳;新材料;发动机;汽车
+YR 2018
+
+RT Journal Article
+K1 飞机外表面;发动机;水基清洗剂;飞机进气系统;积碳;油污
+YR 2018
+
+RT Journal Article
+K1 K13车用;柴油;发动机
+YR 2017
+
+RT Journal Article
+K1 发动机;涡轮增压;进气VVT;涡轮增压;一体成型机滤器;气门机构
+YR 2016
+
+RT Journal Article
+K1 激光熔化;高温合金;涡轮盘;发动机;航空
+YR 2015
+
+RT Journal Article
+K1 发动机;微米;制造精度;精密制造;机制;降低
+YR 2015
+
+RT Journal Article
+K1 发动机;压缩比;燃油经济性;排放
+YR 2015
+
+RT Journal Article
+K1 发动机;长缸冷试;整机冷试;峰值压力;角度
+YR 2014
+
+RT Journal Article
+K1 小型涡喷发动机;高轮毅比离心压气机;叶片式扩压器;靶机小口径巡飞弹
+YR 2014
+
+RT Journal Article
+K1 发动机;小排量;双顶置凸轮轴
+YR 2013
+
+RT Journal Article
+K1 发动机;零部件;疲劳极限;预测
+YR 2013
+
+RT Journal Article
+K1 发动机;降低油耗
+YR 2012
+
+RT Journal Article
+K1 发动机缸体;灰铸铁;低成本制造
+YR 2012
+
+RT Journal Article
+K1 航空活塞发动机;涡轮增压器;桨发匹配
+YR 2021
+
+RT Journal Article
+K1 柴油发动机;国V;节能减排
+YR 2020
+
+RT Journal Article
+K1 汽油机;机械可变气门;凸轮型线;多体动力学;缸内流动;燃烧室优化
+YR 2020
+
+RT Journal Article
+K1 汽车发动机;汽油机;电控燃油;多点喷射;双顶置凸轮轴
+YR 2019
+
+RT Journal Article
+K1 火花点火发动机;ABE/汽油混合燃料;非常规污染物;化学反应机理;数值仿真
+YR 2019
+
+RT Journal Article
+K1 高压油泵滚子挺柱;输出压力;轻量化;低成本;发动机
+YR 2019
+
+RT Journal Article
+K1 毛刺气缸套;离心铸造;发动机缸体
+YR 2019
+
+RT Journal Article
+K1 航空发动机;细长轴类零件;深孔加工;花键加工
+YR 2019
+
+RT Journal Article
+K1 发动机;智能制造;互联互通;数据采集;装备制造
+YR 2019
+
+RT Journal Article
+K1 质量管理;在线质量控制;质量预防;质量改进
+YR 2019
+
+RT Journal Article
+K1 机油滤清器;汽车;低成本;可靠性
+YR 2018
+
+RT Journal Article
+K1 大尺寸固定体;短流程;火箭发动机喷管;精密锻件
+YR 2018
+
+RT Journal Article
+K1 战略管理;智能工厂;智能制造;SWOT
+YR 2018
+
+RT Journal Article
+K1 钛合金;低成本;领域;磁悬浮
+YR 2018
+
+RT Journal Article
+K1 防火;火警探测系统;探测器;支撑装置;民用飞机
+YR 2017
+
+RT Journal Article
+K1 退役航空涡喷发动机;多维联合仿真模型;尾流流场特性
+YR 2017
+
+RT Journal Article
+K1 固液混合火箭发动机;工作过程;燃烧组织;动网格技术;非稳态数值模拟
+YR 2017
+
+RT Journal Article
+K1 高滚流比;等相位可变气门正时;轻量化技术;低摩擦技术;中置后驱
+YR 2017
+
+RT Journal Article
+K1 航空发动机叶片;线结构光;三维形貌测量;标定;误差
+YR 2017
+
+RT Journal Article
+K1 节能绿色汽车;发动机;VVT执行部件
+YR 2017
+
+RT Journal Article
+K1 无人机;低成本;适应性;小型;人机系统;民用
+YR 2016
+
+RT Journal Article
+K1 发动机;刀具几何参数;数控设备;典型零件;机床企业;金属去除率;涡轮机匣;零件加工;智能技术;复合机床;涡轮盘;风扇机匣;切削用量
+YR 2016
+
+RT Journal Article
+K1 发动机;油底壳;ABAQUS软件;优化设计;轻量化
+YR 2015
+
+RT Journal Article
+K1 废气再循环冷却器;排放标准;废气再循环阀;发动机;机电组件
+YR 2014
+
+RT Journal Article
+K1 整体叶盘;线性摩擦焊;惯性摩擦焊接;发动机
+YR 2014
+
+RT Journal Article
+K1 振动测量;状态监测;故障诊断;ADIS;ARM
+YR 2013
+
+RT Journal Article
+K1 帝斯曼集团;汽车发动机;EcoPaXX;聚酰胺
+YR 2013
+
+RT Journal Article
+K1 拦截导弹;主动防护;喷流干扰;制导策略;控制逻辑
+YR 2013
+
+RT Journal Article
+K1 发动机;制动踏板;离合器踏板;驾驶循环
+YR 2013
+
+RT Journal Article
+K1 变频器;发动机;磨合;加载
+YR 2013
+
+RT Journal Article
+K1 发动机冷试;参数控制限;故障诊断网络;故障分类器
+YR 2013
+
+RT Journal Article
+K1 天然气;CO2;发动机;燃烧;排放
+YR 2012
+
+RT Journal Article
+K1 动态参数测量;同步采集;双核微控制器;嵌入式网络通信;基于曲轴转角的采样
+YR 2012
+
+RT Journal Article
+K1 天然气发动机;三元催化器;起燃性能;N2O排放;NH3生成
+YR 2021
+
+RT Journal Article
+K1 煤基石脑油;HCCI;化学动力学;燃烧过程;数值模拟
+YR 2021
+
+RT Journal Article
+K1 低成本;过载检测;时序装订;火工品点火
+YR 2021
+
+RT Journal Article
+K1 天然气发动机;钢活塞;当量燃烧;有限元分析;动力学分析
+YR 2020
+
+RT Journal Article
+K1 陶瓷摇臂;产业化;汽车发动机
+YR 2020
+
+RT Journal Article
+K1 燃料电池;氢能;环境适应性;商用车
+YR 2020
+
+RT Journal Article
+K1 凸轮轴;汽车发动机;毛坯
+YR 2020
+
+RT Journal Article
+K1 前轴承机匣;工艺改进;夹具优化;高速铣削
+YR 2020
+
+RT Journal Article
+K1 镍基单晶高温合金;Re;拉伸性能;蠕变性能;氧化行为
+YR 2020
+
+RT Journal Article
+K1 中低成本电影;新媒体;宣传发行;长尾;定位
+YR 2020
+
+RT Journal Article
+K1 斜安装边;新型数控工艺;变形控制
+YR 2019
+
+RT Journal Article
+K1 天然气发动机;当量燃烧;进气道;燃烧室;燃烧性能
+YR 2019
+
+RT Journal Article
+K1 21-4N;发动机气门;模锻成型
+YR 2019
+
+RT Journal Article
+K1 喷管扩张段;壁面温度;气膜冷却;火箭发动机;数值模拟
+YR 2019
+
+RT Journal Article
+K1 金属钛;短流程;低成本;铝热还原法
+YR 2019
+
+RT Journal Article
+K1 汽车发动机;刀具;机加工;应用管理
+YR 2019
+
+RT Journal Article
+K1 激光焊接技术;激光焊接工艺;发动机制造
+YR 2019
+
+RT Journal Article
+K1 汽车发动机罩;结构设计;行人保护
+YR 2019
+
+RT Journal Article
+K1 电火花线切割加工;枞树槽;加工质量检测;机器学习;无监督学习;深度学习
+YR 2019
+
+RT Journal Article
+K1 三维形貌测量;光栅投影;系统标定;相位解调;相位展开
+YR 2019
+
+RT Journal Article
+K1 砂轮;航空发动机;磨削;高强韧材料
+YR 2018
+
+RT Journal Article
+K1 航空发动机;机匣;镍基合金;工艺优化;高效铣加工
+YR 2018
+
+RT Journal Article
+K1 Stateflow;发动机;数据预处理;控制逻辑;综合控制器;飞行状态参数;综控机;飞行模式;不起动
+YR 2018
+
+RT Journal Article
+K1 车用发动机;排放控制;汽油机颗粒过滤;柴油机颗粒过滤;三效催化器
+YR 2018
+
+RT Journal Article
+K1 火箭发动机燃烧室;铜合金;镍合金;点火试验
+YR 2018
+
+RT Journal Article
+K1 数值模拟;发动机水套;流固耦合;热机耦合;疲劳安全系数
+YR 2018
+
+RT Journal Article
+K1 薄壁叶片;复杂型面;残余应力;磨削工艺;阵列加工
+YR 2018
+
+RT Journal Article
+K1 粉末冶金;双金属座圈;摩擦磨损;切削机理;台架冲击试验
+YR 2018
+
+RT Journal Article
+K1 船用LNG发动机;数值模拟;REGR;排放
+YR 2018
+
+RT Journal Article
+K1 航空发动机;涡轮发动机;小型;导弹;螺桨风扇;脉冲爆震
+YR 2018
+
+RT Journal Article
+K1 涂层;零部件;表面耐磨;低成本
+YR 2018
+
+RT Journal Article
+K1 液氧/甲烷;上面级发动机;关键技术研究;点火试验;液氧/甲烷发动机;推力室;液体火箭发动机;研制进展
+YR 2017
+
+RT Journal Article
+K1 泵压式液体火箭发动机;挤压式液体火箭发动机;泵压式供应系统;涡轮泵;燃烧室压强;推力调节;概念分析
+YR 2017
+
+RT Journal Article
+K1 动力;发动机;膜片;机舱;排水系统
+YR 2017
+
+RT Journal Article
+K1 标志750;发动机缸盖;复合加工刀具
+YR 2017
+
+RT Journal Article
+K1 缸内压力;瞬时转速;燃烧闭环控制
+YR 2017
+
+RT Journal Article
+K1 故障诊断;数据流;电控发动机
+YR 2017
+
+RT Journal Article
+K1 PCV技术;标志;发动机缸盖
+YR 2016
+
+RT Journal Article
+K1 智能制造;生产线;AMS
+YR 2016
+
+RT Journal Article
+K1 航空发动机;聚酰亚胺;复合材料;衬套
+YR 2016
+
+RT Journal Article
+K1 精益物流;物流成本;物流效率;曲轴与轴瓦
+YR 2016
+
+RT Journal Article
+K1 固体火箭发动机;喷管;低成本技术;Naxeco材料技术;低扭矩柔性密封技术
+YR 2016
+
+RT Journal Article
+K1 防冻液;汽车发动机;防结垢;专利;效果
+YR 2016
+
+RT Journal Article
+K1 液体火箭发动机;燃烧不稳定;计算流体力学
+YR 2016
+
+RT Journal Article
+K1 模块化设计;固体助推器;发动机;任务适应性;总体优化设计;电气系统;快速设计;发射费用;发射服务;研制成本;分布式测试;焊接技术;发射场
+YR 2016
+
+RT Journal Article
+K1 涡轴发动机;数学模型;扭矩;双发;实物在回路仿真
+YR 2016
+
+RT Journal Article
+K1 金属磨屑;检测电路;传感器;传感器驱动电路;滑油
+YR 2016
+
+RT Journal Article
+K1 约翰·霍普金斯大学;小型发动机;第二轮
+YR 2016
+
+RT Journal Article
+K1 航空发动机;柔性装配;误差模型;精度分析与综合;误差补偿
+YR 2016
+
+RT Journal Article
+K1 发动机装配线;生产系统规划;装配线平衡;仿真分析
+YR 2016
+
+RT Journal Article
+K1 热声;发动机;发电机;扬声器;行波
+YR 2016
+
+RT Journal Article
+K1 气氧/煤油发动机;姿控;点火
+YR 2015
+
+RT Journal Article
+K1 航空发动机;仿真;建模;试验;培训
+YR 2015
+
+RT Journal Article
+K1 微型脉冲发动机;脉冲发动机;简易弹道修正;推力测试系统;发动机性能研究
+YR 2015
+
+RT Journal Article
+K1 导弹;微小型涡轮发动机;关键技术
+YR 2015
+
+RT Journal Article
+K1 铸铁凸轮轴;激光熔覆;再制造
+YR 2015
+
+RT Journal Article
+K1 整体叶盘;数控刀具;发动机零部件
+YR 2014
+
+RT Journal Article
+K1 Space X;可重复使用;高可靠
+YR 2014
+
+RT Journal Article
+K1 内燃机;郎肯循环;纯氧燃烧技术;废气再循环
+YR 2014
+
+RT Journal Article
+K1 停车响应时间;DSP;高速A/D
+YR 2014
+
+RT Journal Article
+K1 船艇发动机;高转速;高速发动机
+YR 2014
+
+RT Journal Article
+K1 阀体;电磁阀;芯轴;柴油发动机
+YR 2013
+
+RT Journal Article
+K1 战略采购;供应体系规划;质量和成本的早期控制
+YR 2013
+
+RT Journal Article
+K1 重型车用柴油机;高温燃烧;低温燃烧;电子涡轮复合
+YR 2013
+
+RT Journal Article
+K1 连杆;热锻模;电解加工;装置
+YR 2013
+
+RT Journal Article
+K1 配料比;晶体石墨增碳剂;复合铸铁;汽车发动机;缸体
+YR 2013
+
+RT Journal Article
+K1 热交换器;IRA航空发动机;NEWAC高压缩比发动机;WR-21舰艇发动机;中间冷却器
+YR 2013
+
+RT Journal Article
+K1 复合加工技术;难加工材料;复合刀具;高效切削;工艺流程
+YR 2013
+
+RT Journal Article
+K1 内燃机;微车汽油机;经济性;可靠性;排放
+YR 2013
+
+RT Journal Article
+K1 发动机缸体;加工工艺;柔性生产线
+YR 2013
+
+RT Journal Article
+K1 微型涡喷发动机;电子控制器;STM32;建模;电磁兼容
+YR 2013
+
+RT Journal Article
+K1 小排量;涡轮增压;自主研发
+YR 2013
+
+RT Journal Article
+K1 航空发动机;控制系统;设计;LabVIEW;控制器快速原型;硬件在回路仿真
+YR 2012
+
+RT Journal Article
+K1 位置测量;视觉柔性定位;二维映射模型;系统标定;线阵扫描成像
+YR 2012
+
+RT Journal Article
+K1 民用航空发动机;焊接技术;搅拌摩擦焊;搅拌头;钛合金;整体叶盘;惯性摩擦焊;线性摩擦焊;固态焊接
+YR 2012
+
+RT Journal Article
+K1 三维测量;叶片;面结构光;组合编码;解相位
+YR 2012
+
+RT Journal Article
+K1 液体火箭发动机;推力室;结构设计;冷却设计
+YR 2012
+
+RT Journal Article
+K1 OBD;ECU;故障诊断;发动机;诊断仪
+YR 2012
+
+RT Journal Article
+K1 微型涡喷发动机;蒸发管;性能测试;燃烧室;数值模拟
+YR 2012
+
+RT Journal Article
+K1 短寿命涡轮发动机;高温强度;蠕变/持久;本构模型;寿命预测
+YR 2012
+
+RT Journal Article
+K1 摩托车发动机;燃烧;排放
+YR 2012
+
+RT Journal Article
+K1 航空发动机;风扇叶片;宽弦钛合金
+YR 2012
+
+RT Journal Article
+K1 淬火感应器;维修费;曲轴
+YR 2021
+
+RT Journal Article
+K1 噪声;汽车制造;降噪措施;技术改造;气动甩油;离心降噪
+YR 2021
+
+RT Journal Article
+K1 微型涡喷发动机;斜流压气机;仿真模拟;优化设计;流动分析
+YR 2021
+
+RT Journal Article
+K1 固体发动机;智能采集终端;管控平台;管控系统;研究与实践
+YR 2020
+
+RT Journal Article
+K1 发动机;机油;仿生非光滑;石墨烯;二茂铁
+YR 2020
+
+RT Journal Article
+K1 轴流压气机;离心压气机;组合;流动机理;流动损失
+YR 2020
+
+RT Journal Article
+K1 网约车;经营成本;清洁能源;天然气发动机;技术特点
+YR 2020
+
+RT Journal Article
+K1 拓扑优化;变密度法;渐进优化方法;尺寸优化;应急断离保险销;二次开发
+YR 2020
+
+RT Journal Article
+K1 增压系统;控制策略;活塞式航空发动机;复合增压;无人机;发动机功率;增压压力;涡轮增压器
+YR 2019
+
+RT Journal Article
+K1 固体火箭发动机;先进复合材料;火箭发动机绝热层;前沿技术
+YR 2019
+
+RT Journal Article
+K1 柴油机缸体;虚拟加工;生产线;仿真;配置优化;排队论
+YR 2019
+
+RT Journal Article
+K1 机器人;叶片磨抛;六维力传感器;力位混合控制;轨迹在线修正
+YR 2019
+
+RT Journal Article
+K1 航空发动机叶片;三维测量;面结构光;格雷编码;相移法
+YR 2019
+
+RT Journal Article
+K1 涡轮盘;数控加工;振动光饰;表面质量
+YR 2018
+
+RT Journal Article
+K1 镁合金;高强高韧;轻量化材料;熔炼;净化;晶粒细化
+YR 2018
+
+RT Journal Article
+K1 选择性催化还原(SCR);柴油发动机;激光光谱传感器;波长调制光谱技术;变调制系数;多谱线
+YR 2017
+
+RT Journal Article
+K1 冰点;沸点;缓蚀剂
+YR 2017
+
+RT Journal Article
+K1 矩阵缩减;拓扑优化;附件支架;发动机
+YR 2017
+
+RT Journal Article
+K1 涡轮叶片;CR;DR;缺陷检测;工业CT
+YR 2017
+
+RT Journal Article
+K1 凸轮轴;生产线辅机系统;自动化生产线
+YR 2017
+
+RT Journal Article
+K1 摩托车;发动机曲轴;轴承套圈
+YR 2016
+
+RT Journal Article
+K1 汽车发动机;后处理;尾气排放;沉积机理;尿素喷射
+YR 2016
+
+RT Journal Article
+K1 轴瓦;润滑结构;发动机
+YR 2016
+
+RT Journal Article
+K1 中长货箱;皮卡;节能减排
+YR 2016
+
+RT Journal Article
+K1 全新赛欧;整车;平台架构开发;新技术;产品应用
+YR 2016
+
+RT Journal Article
+K1 橡胶材料;三维网络结构;静态力学性能;疲劳寿命
+YR 2015
+
+RT Journal Article
+K1 混流顺序生产;物料集配;物料准时配送;台车积载率
+YR 2015
+
+RT Journal Article
+K1 炭/炭复合材料;化学气相沉积;炭纤维;纳米碳管
+YR 2014
+
+RT Journal Article
+K1 霍尼韦尔;涡轮增压器;市场竞争定位;中国市场
+YR 2014
+
+RT Journal Article
+K1 发动机罩外板;冲压工艺;模具设计;UG软件;Autoform软件
+YR 2013
+
+RT Journal Article
+K1 空调系统;低成本;节能
+YR 2013
+
+RT Journal Article
+K1 涡轮盘;破裂转速;低循环疲劳;塑性失稳;有限元分析;通用斜率方程
+YR 2012
+
+RT Journal Article
+K1 捕鲸叉导弹;动力装置;涡喷发动机;低成本
+YR 2021
+
+RT Journal Article
+K1 火箭技术;半人马座;一子级;固体助推器;整流罩;发动机;箭体结构;上面级;发射工位;发射任务;发射费用;发射成本;成本控制措施
+YR 2016
+
+RT Journal Article
+K1 动力传动系统;液压混合动力系统;系统结构;能量再生
+YR 2015
+
+RT Journal Article
+K1 燃油喷射系统;发动机;高精度机床;新产品研发;国内外对比;制造技术
+YR 2014
+
+RT Journal Article
+K1 内燃机;兰金循环;纯氧燃烧技术;EGR
+YR 2014
+
+RT Journal Article
+K1 柴油机;高压油管;柔性自动化制造技术
+YR 2013
+
+RT Journal Article
+K1 混合动力;新概念;磁阻电机;发动机;扭矩波动;制动能量回收系统;电动压缩机;废气涡轮增压器;涡轮发电机;低电压
+YR 2013
+
+RT Journal Article
+K1 电控化油器;软硬件开发;控制策略;模糊自整定;PID
+YR 2013
+
+RT Journal Article
+K1 铝合金;压管零件;热态旋转;气密性检测
+YR 2012
+
+RT Journal Article
+K1 粉末冶金;组合烧结;中空凸轮轴
+YR 2021
+
+RT Journal Article
+K1 火箭;卫星;发射场;发动机;发射运输系统
+YR 2021
+
+RT Journal Article
+K1 蠕墨铸铁;冷却速度;组织;导热性能;数值计算
+YR 2021
+
+RT Journal Article
+K1 复合式消声器;代理模型;多目标优化;气动噪声;辐射噪声
+YR 2021
+
+RT Journal Article
+K1 双电机;多模;混合动力;变速器
+YR 2020
+
+RT Journal Article
+K1 集成排气歧管;动力性能;排气干扰;缸内残余废气;节能减排
+YR 2019
+
+RT Journal Article
+K1 发动机缸套;智能制造;关键软硬件系统;3D视觉定位
+YR 2019
+
+RT Journal Article
+K1 发动机;爆米花;红巨星
+YR 2019
+
+RT Journal Article
+K1 变转速电液动力源;非对称闭式容积控制;动势能回收;高效回收;四象限控制;进出口独立控制
+YR 2018
+
+RT Journal Article
+K1 油电混合;无人机;作战应用;气动布局;人工智能;发动机;电推进
+YR 2018
+
+RT Journal Article
+K1 喷油器质量;喷油器泄漏;测量系统分析;试验设计
+YR 2018
+
+RT Journal Article
+K1 喷嘴;质量改进;滑油喷嘴;钛合金;喷油杆;高温合金
+YR 2016
+
+RT Journal Article
+K1 智能规划;生产制造系统;柔性制造系统;零点定位
+YR 2015
+
+RT Journal Article
+K1 双变速箱;两挡行星变速箱;驱动系统
+YR 2014
+
+RT Journal Article
+K1 汽油;发电机组
+YR 2014
+
+RT Journal Article
+K1 汽油机;离子电流;燃烧诊断;小波分析;火花塞
+YR 2014
+
+RT Journal Article
+K1 轻型车;加速噪声;方法B;测量
+YR 2014
+
+RT Journal Article
+K1 StarRotor发动机;内啮合齿轮式压缩机;湿压缩;设计;性能分析
+YR 2014
+
+RT Journal Article
+K1 柴油机;甲醇/F-T柴油;燃烧;排放;FIRE软件
+YR 2013
+
+RT Journal Article
+K1 直喷汽油机;基于模型;标定;Boost
+YR 2013
+
+RT Journal Article
+K1 压缩空气动力汽车;发动机
+YR 2013
+
+RT Journal Article
+K1 汽车业;变速器;发动机;汽车行业;汽车产量;低端市场;吉利汽车;创新路径
+YR 2013
+
+RT Journal Article
+K1 红外成像;武装直升机;全尺寸几何建模;大气衰减
+YR 2012
+
+RT Journal Article
+K1 飞轮转速;平均指示压力;气缸压力识别;单区燃烧模型;指示扭矩估计
+YR 2012
+
+RT Journal Article
+K1 电火花成形加工;铣削;特殊材料
+YR 2012
+
+RT Journal Article
+K1 压燃式发动机;数值计算;欧拉喷雾模型;非稳态火焰面进度变量燃烧模型;正十二烷;PRF
+YR 2021
+
+RT Journal Article
+K1 精确制导武器;动力技术;高超声速;新材料
+YR 2021
+
+RT Journal Article
+K1 飞行;无人机;控制;货运;管理系统
+YR 2019
+
+RT Journal Article
+K1 氧/甲烷火箭发动机;耦合壁面函数;标量耗散率;唇口厚度
+YR 2019
+
+RT Journal Article
+K1 固体润滑;气氢冷却;高速轴承;轴承性能试验台
+YR 2019
+
+RT Journal Article
+K1 液压混合动力;液压泵/马达;瞬时最优;协调控制
+YR 2019
+
+RT Journal Article
+K1 自然吸气;EGR;VVT;组合技术;降油耗
+YR 2018
+
+RT Journal Article
+K1 混合动力;能量管理系统;模糊控制;整车控制器;硬件在环
+YR 2018
+
+RT Journal Article
+K1 价值工程;量产车项目;汽车零部件;项目成本控制;作业成本分析法
+YR 2018
+
+RT Journal Article
+K1 非调质钢;闭式或半闭式锻造;天然气发动机
+YR 2017
+
+RT Journal Article
+K1 活塞环槽;气密性检测;环槽毛刺;无损检测
+YR 2017
+
+RT Journal Article
+K1 汽油机;润滑系统;变排量机油泵;摩擦损失;燃油经济性
+YR 2017
+
+RT Journal Article
+K1 康明斯发动机有限公司;燃油系统事业部;采购管理
+YR 2017
+
+RT Journal Article
+K1 MEMS技术;曲面图形化;干膜光刻;镍膜掩膜;薄膜热电偶
+YR 2017
+
+RT Journal Article
+K1 双燃料发动机;建模;一维稳态仿真;联合仿真
+YR 2016
+
+RT Journal Article
+K1 爬树;修枝;效率;自动化
+YR 2016
+
+RT Journal Article
+K1 热声发电机;热声发动机;线性发电机;直驱型;起振;阻抗匹配
+YR 2016
+
+RT Journal Article
+K1 树脂传递模塑成型(RTM);酚醛树脂;耐烧蚀;残碳率;孔隙率
+YR 2016
+
+RT Journal Article
+K1 铁镶圈;铝活塞;铸造复合
+YR 2015
+
+RT Journal Article
+K1 增程式电动公交客车;行驶工况;控制策略
+YR 2015
+
+RT Journal Article
+K1 PWM控制;车用;智能;冷却风扇
+YR 2014
+
+RT Journal Article
+K1 插电式混合动力汽车;能量管理策略;驾驶意图;工况识别;能耗经济性
+YR 2014
+
+RT Journal Article
+K1 AT;坡道;换档规律;模糊控制;驾驶员意图
+YR 2014
+
+RT Journal Article
+K1 上汽通用;五菱N109;汽车变速器
+YR 2013
+
+RT Journal Article
+K1 燃气机;散热器;圆铜管翅片;远程控制
+YR 2013
+
+RT Journal Article
+K1 摩托车;发动机电控系统;控制策略
+YR 2012
+
+RT Journal Article
+K1 可变截面增压器;部分进气涡轮;数值计算;流动分析
+YR 2012
+
+RT Journal Article
+K1 Al-Si-Y阴极靶;高压涡轮叶片;航空发动机
+YR 2012
+
+RT Journal Article
+K1 康明斯;发动机;整车厂;大排量
+YR 2021
+
+RT Journal Article
+K1 多元微合金化;纳米析出相强化;镁合金
+YR 2020
+
+RT Journal Article
+K1 车用交流发电机;扁铜线定子;漆包线制线工艺;定子铜线成形工艺;定子铜线焊接工艺
+YR 2020
+
+RT Journal Article
+K1 碳纤维无纺布复合材料;有限元;多尺度优化;轻量化
+YR 2020
+
+RT Journal Article
+K1 表面织构;微凹腔;三维表征;多层拟合
+YR 2019
+
+RT Journal Article
+K1 阿里安6火箭;装配;制造;成本
+YR 2019
+
+RT Journal Article
+K1 航天运载器;重复使用;液体火箭发动机;组合循环发动机
+YR 2019
+
+RT Journal Article
+K1 铝缸体;架构设计;细节特征布置;高压铸造
+YR 2019
+
+RT Journal Article
+K1 排气消声器;神户制钢;钛合金;新日本钢铁公司
+YR 2019
+
+RT Journal Article
+K1 先进镍基单晶高温合金;蠕变;位错网;强韧化机理
+YR 2019
+
+RT Journal Article
+K1 锻造活塞;锻钢活塞;热冷联锻;柴油发动机;冷精锻
+YR 2019
+
+RT Journal Article
+K1 稀土永磁材料;电阻率;最大磁能积;掺杂;绝缘磁体;液相化学包覆
+YR 2018
+
+RT Journal Article
+K1 汽车车身;碳纤维;玻璃纤维;翼子板
+YR 2018
+
+RT Journal Article
+K1 AMP;凸轮块;锻造力;热成型机;HOTmatic AMP 20 N;制造商;全新产品;生产力
+YR 2018
+
+RT Journal Article
+K1 涡轮盘;粉末高温合金;切削加工;表面完整性;磨削
+YR 2018
+
+RT Journal Article
+K1 光整加工;磨料流加工;边缘效应;约束形面;反求设计;复杂曲面
+YR 2018
+
+RT Journal Article
+K1 发动机机体;螺栓孔;螺纹加工;多工位全自动;整体式移位滑台
+YR 2018
+
+RT Journal Article
+K1 汽油机;防逆转;电感式磁电机
+YR 2018
+
+RT Journal Article
+K1 脉冲修正弹药;脉冲发动机;修正控制;修正策略
+YR 2017
+
+RT Journal Article
+K1 高压;涡轮增压器;问题;二级;解决
+YR 2017
+
+RT Journal Article
+K1 低噪音;汽油机;增压器
+YR 2017
+
+RT Journal Article
+K1 柴油发动机;气道性能;CFD模拟;稳流气道试验
+YR 2017
+
+RT Journal Article
+K1 点火控制器;点火提前角;AT Tiny13
+YR 2017
+
+RT Journal Article
+K1 中介轴承;温度场分析;最佳供油量;流场分析
+YR 2017
+
+RT Journal Article
+K1 大型发动机;粉末冶金气门导管;成型模具
+YR 2017
+
+RT Journal Article
+K1 甲醇;混合燃料;柴油;稳定;清洁
+YR 2016
+
+RT Journal Article
+K1 增程式电动汽车;集成热管理;交互热分析;参数匹配
+YR 2016
+
+RT Journal Article
+K1 单支链芳香烃;运输替代燃料;同步辐射真空紫外光电离质谱;燃烧反应;动力学模型;流动反应器热解;层流预混火焰;射流搅拌反应器氧化;模型;宽温度压力范围验证;多环芳烃生成机理;碳烟生成机理;模型分析
+YR 2016
+
+RT Journal Article
+K1 空气涡轮机;叶片测量;测控系统
+YR 2016
+
+RT Journal Article
+K1 等离子喷涂;冷却速率;氧化;石墨;溶解
+YR 2016
+
+RT Journal Article
+K1 中国;重大科学进展;重大技术进展;重大工程进展
+YR 2016
+
+RT Journal Article
+K1 竞争战略;环境分析;规划保障
+YR 2015
+
+RT Journal Article
+K1 发射器;雷声公司;TOW;EagleFire;下一代
+YR 2015
+
+RT Journal Article
+K1 发射场;碳纤维复合材料;风险投资公司
+YR 2015
+
+RT Journal Article
+K1 自然吸气式发动机;节气门体;汽车进气道;被动式导流翼片
+YR 2015
+
+RT Journal Article
+K1 镍基高温合金;盘形锻件;铸锻工艺;微观组织;力学性能
+YR 2015
+
+RT Journal Article
+K1 纯电动汽车;特斯拉;火箭实验室;燃料电池;新能源汽车;电池技术;CNF;戴姆勒公司;火箭发动机;活性炭;储能电池;电动车市场
+YR 2015
+
+RT Journal Article
+K1 运载火箭;液体火箭发动机;重复使用技术;推力调节;二次起动
+YR 2015
+
+RT Journal Article
+K1 电动汽车;增程发电系统;参数;能量管理
+YR 2015
+
+RT Journal Article
+K1 土地混合使用;李克强;功能分区;区位理论
+YR 2015
+
+RT Journal Article
+K1 无人机;螺旋桨;建模;气动性能;数值模拟
+YR 2015
+
+RT Journal Article
+K1 装配式凸轮轴;热套连接;滚花连接;静扭强度;疲劳寿命;数值模拟
+YR 2015
+
+RT Journal Article
+K1 液体火箭发动机;航天推进;液氧煤油;烃类;推进剂
+YR 2015
+
+RT Journal Article
+K1 开关霍尔传感器;永磁同步电动机;两相正弦波驱动
+YR 2015
+
+RT Journal Article
+K1 降转速;大能容;液力变矩器;节油率
+YR 2015
+
+RT Journal Article
+K1 电火花加工;电喷片;微孔加工
+YR 2014
+
+RT Journal Article
+K1 优良制造中心;提前/拖期调度;调度算法;遗传算法;禁忌搜索
+YR 2014
+
+RT Journal Article
+K1 电化学加工;切削技术;汽车发动机;零部件;电解加工机床;难加工材料;ECM
+YR 2014
+
+RT Journal Article
+K1 柴油机;内部EGR;数值模拟;燃烧排放性能
+YR 2014
+
+RT Journal Article
+K1 切分;夹角;窄切缝;多轴联动;电火花线切割
+YR 2014
+
+RT Journal Article
+K1 全数字仿真;航空发动机;引气控制系统;软件验证
+YR 2014
+
+RT Journal Article
+K1 探空火箭;图像压缩;小波变换
+YR 2014
+
+RT Journal Article
+K1 增程式电动汽车;增程器控制系统;模糊控制策略;多目标遗传优化
+YR 2014
+
+RT Journal Article
+K1 压气机叶片;抛光技术;高循环疲劳;低塑性;发展与应用
+YR 2014
+
+RT Journal Article
+K1 车身电子控制模块;集中式BCM;微控制器;MB96F386
+YR 2014
+
+RT Journal Article
+K1 针刺炭纤维炭/炭;喉衬;制备;性能表征
+YR 2013
+
+RT Journal Article
+K1 无人飞艇;电性源地空电磁系统;二维有限差分;全差分放大;独立分量分析
+YR 2013
+
+RT Journal Article
+K1 稀燃;EGR;LNT;NOx
+YR 2013
+
+RT Journal Article
+K1 FGH95镍基粉末高温合金;制备工艺;组织性能
+YR 2013
+
+RT Journal Article
+K1 Inconel718;超塑成形;多层夹芯板结构;LBW;SPF
+YR 2013
+
+RT Journal Article
+K1 铟合金;合金粉;电感耦合等离子体原子发射光谱法;内标元素;基体匹配
+YR 2013
+
+RT Journal Article
+K1 飞行模拟器;音效系统;声源提取;短时傅里叶变换;频谱建模合成
+YR 2012
+
+RT Journal Article
+K1 超燃冲压发动机;热防护;主动冷却;陶瓷基复合材料;C/SiC
+YR 2012
+
+RT Journal Article
+K1 柴油机;高压共轨;OBDII;故障诊断
+YR 2012
+
+RT Journal Article
+K1 工程陶瓷;轴向磨削;小砂轮;出油阀;磨损
+YR 2012
+
+RT Journal Article
+K1 曲轴;表面淬火;装备
+YR 2012
+
+RT Journal Article
+K1 结构件;整体叶盘;数控加工工艺;刀具轨迹;难切削材料
+YR 2012
+
+RT Journal Article
+K1 声源提取;频谱建模合成;线性预测;短时傅里叶变换;声音仿真系统;三维声音;飞行模拟器
+YR 2012
+
+RT Journal Article
+K1 微型涡轮发动机;向心涡轮;整体叶片式导向器;设计方法;叶轮特性;数值模拟;转动试验
+YR 2012
+
+RT Journal Article
+K1 钛合金;航空结构应用;损伤容限;组织控制技术;β锻造;β热处理
+YR 2012
+
+RT Journal Article
+K1 新能源汽车;电驱动桥;齿轮;轴承;设计
+YR 2021
+
+RT Journal Article
+K1 成本领先战略;价值链;航空企业;成本动因;成本管理
+YR 2021
+
+RT Journal Article
+K1 热声发动机;气-液谐振;驻波;摩擦纳米发电机;液态金属
+YR 2020
+
+RT Journal Article
+K1 镍基高温合金;电子束焊;焊接变形;焊接应力
+YR 2019
+
+RT Journal Article
+K1 喷涂机器人;柴油发动机;工件定位;六自由度;目标跟踪
+YR 2019
+
+RT Journal Article
+K1 发动机连杆;脉冲激光;裂解槽;温度场;切割热应力;辅助气体;流场
+YR 2019
+
+RT Journal Article
+K1 静电场;正戊烷;氧化结焦;结焦前驱体
+YR 2019
+
+RT Journal Article
+K1 方程式赛车;进气系统;AVL boost;CFD;设计
+YR 2019
+
+RT Journal Article
+K1 化学气相沉积;Nb/Re层状复合材料;扩散;机制;性能
+YR 2019
+
+RT Journal Article
+K1 可重复使用运载器;回收方式;可重复使用运载火箭
+YR 2018
+
+RT Journal Article
+K1 低浓度;瓦斯发电;余热再利用;成套装备
+YR 2018
+
+RT Journal Article
+K1 火箭实验室;火箭发射;立方星;发动机
+YR 2018
+
+RT Journal Article
+K1 高品质;涨断连杆;非调质;C70S6BY;质量控制
+YR 2018
+
+RT Journal Article
+K1 液滤式;柴油机;尾气颗粒物;处理系统
+YR 2018
+
+RT Journal Article
+K1 燃烧器;SCR催化器;耐久性;快速老化
+YR 2018
+
+RT Journal Article
+K1 前舱上边梁;前轮罩;发动机罩铰链下支架;涂胶处理
+YR 2017
+
+RT Journal Article
+K1 工程变更管理;产品生命周期管理;变更通知;ECM;发动机;ECB;任务包;PLM
+YR 2017
+
+RT Journal Article
+K1 电火花加工技术;难加工材料;涡轮盘;应用及发展
+YR 2017
+
+RT Journal Article
+K1 修正弹药;命中精度;无控弹药;发动机
+YR 2017
+
+RT Journal Article
+K1 农用车;碳平衡法;油耗;排放;停缸断油
+YR 2017
+
+RT Journal Article
+K1 电子束;增材制造;装备与工艺
+YR 2017
+
+RT Journal Article
+K1 发动机
+YR 2017
+
+RT Journal Article
+K1 薄煤层;低浓度瓦斯;稳源;抽采;发电利用
+YR 2017
+
+RT Journal Article
+K1 航发叶片;机器人磨削;砂带磨削;材料去除;三坐标检测
+YR 2017
+
+RT Journal Article
+K1 电控柴油机;滤芯;燃油滤清器
+YR 2016
+
+RT Journal Article
+K1 中小企业;竞争战略;供应链结构;战略匹配
+YR 2016
+
+RT Journal Article
+K1 变速箱;机械;齿式联轴器
+YR 2016
+
+RT Journal Article
+K1 农用柴油机;噪声;尾气;旋流式消音器
+YR 2016
+
+RT Journal Article
+K1 高温合金;精密铸造;型芯
+YR 2016
+
+RT Journal Article
+K1 多用途飞船;发射费用;发动机;人力成本;欧洲空间局;单点失效;基于模型;宇航级;登月舱;抗辐射性能;失效模型;国际空间站
+YR 2016
+
+RT Journal Article
+K1 液固相转变;力学建模;本构算法;流体单元;液相本构模型;液—固挤压工艺
+YR 2016
+
+RT Journal Article
+K1 推力矢量;脉冲修正迫弹;弹道追踪;控制策略;过载驾驶仪
+YR 2015
+
+RT Journal Article
+K1 航空汽油;燃料
+YR 2015
+
+RT Journal Article
+K1 高温合金;精密管材
+YR 2015
+
+RT Journal Article
+K1 轮胎式;抓料机
+YR 2015
+
+RT Journal Article
+K1 高温合金;环形件;闪光焊
+YR 2015
+
+RT Journal Article
+K1 超近程主动防护系统;火箭子母弹;母弹引信安全系统;后坐力;燃气压力;解除保险开关;炮口感应;抗干扰
+YR 2014
+
+RT Journal Article
+K1 汽车;涡轮;增压管路
+YR 2014
+
+RT Journal Article
+K1 超长冲程发动机;低速柴油机;航速
+YR 2013
+
+RT Journal Article
+K1 连杆材料;粉末冶金
+YR 2013
+
+RT Journal Article
+K1 虚拟开发平台;混合动力客车;控制策略;组合优化算法;快速控制原型
+YR 2013
+
+RT Journal Article
+K1 蠕墨铸铁;锡;珠光体;力学性能;耐磨性;热疲劳
+YR 2013
+
+RT Journal Article
+K1 丁羟推进剂;键合剂;硼酸酯;改性;力学性能;合成
+YR 2012
+
+RT Journal Article
+K1 柴油机活塞;自动生产线;活塞工装;生产线监控
+YR 2021
+
+RT Journal Article
+K1 等离子体-物理气相沉积;热障涂层;沉积机制;高温稳定性;失效机制
+YR 2021
+
+RT Journal Article
+K1 乙醇;碳-碳偶联;醇缩合;高级燃料醇
+YR 2021
+
+RT Journal Article
+K1 电火花加工;薄片电极;连杆裂解槽;贴壁直喷
+YR 2021
+
+RT Journal Article
+K1 小孔分子筛;SCR催化剂;涂覆工艺;喷射策略
+YR 2021
+
+RT Journal Article
+K1 进气系统;塑料歧管;滤芯
+YR 2020
+
+RT Journal Article
+K1 低温钛合金;成形工艺;低温性能;变形机理
+YR 2020
+
+RT Journal Article
+K1 橡胶垫圈;冲头;刀具优化;工装设计
+YR 2020
+
+RT Journal Article
+K1 草酸混合酯;草酸甲乙酯;替代燃料;含氧燃料;分子动力学模拟
+YR 2020
+
+RT Journal Article
+K1 组合式凸轮轴;热气胀锻;热胀冷缩;成形质量;接触压力
+YR 2020
+
+RT Journal Article
+K1 活塞内腔;字符识别;活塞外表面;缺陷检测;机器视觉
+YR 2020
+
+RT Journal Article
+K1 机械式自动变速器;主动同步换挡;预测控制;换挡规律
+YR 2020
+
+RT Journal Article
+K1 瑞利波;兰姆波;粘度;凝血时间;温度补偿;氮化铝压电薄膜
+YR 2019
+
+RT Journal Article
+K1 粉末冶金;产品改进;模具设计分析;压机功能;模具结构
+YR 2019
+
+RT Journal Article
+K1 电火花;直流运动电弧;加工效率;电极损耗
+YR 2019
+
+RT Journal Article
+K1 三缸机悬置系统;OPAX;小波阈值函数;刚度优化;主观评价
+YR 2019
+
+RT Journal Article
+K1 高性能;非均匀;钛基复合材料
+YR 2019
+
+RT Journal Article
+K1 过渡段;电弧熔积;冶金质量;力学性能;复合增材
+YR 2018
+
+RT Journal Article
+K1 企业上市;企业创新;融资行为;作用路径;全面创新管理
+YR 2018
+
+RT Journal Article
+K1 节气门;电机;有限元仿真;功率谱密度
+YR 2018
+
+RT Journal Article
+K1 重型燃气轮机;热障涂层;陶瓷复层;循环热效率;耐高温陶瓷
+YR 2017
+
+RT Journal Article
+K1 固液混合发动机;双模式推进系统;混合推进;微纳卫星;上面级
+YR 2017
+
+RT Journal Article
+K1 MEMS芯片;双金线绑定;真空度传感器
+YR 2017
+
+RT Journal Article
+K1 混合火箭发动机;HTPB;镁粉;纳米铝粉;氧化剂质量密流;退移速率;质量消耗率
+YR 2017
+
+RT Journal Article
+K1 开关控制;脉冲调制器;最优切换控制;制导律;碰撞角约束;导引头隔离度寄生回路;干扰观测器;滚转交叉耦合解耦
+YR 2016
+
+RT Journal Article
+K1 制动助力系统;整车标定;真空度;间歇性;增压
+YR 2016
+
+RT Journal Article
+K1 整体叶轮;镍基高温合金;虚拟加工;切削物理仿真;切削参数优化
+YR 2016
+
+RT Journal Article
+K1 有机废弃物;厌氧处理;生物质燃气
+YR 2016
+
+RT Journal Article
+K1 混流生产;路由控制系统;闭环控制模型;线边供料装置
+YR 2016
+
+RT Journal Article
+K1 汽车零部件;数字化;快速;设计制造
+YR 2015
+
+RT Journal Article
+K1 车载影音系统;SD;USB;FreeRTOS;VisualState状态机
+YR 2015
+
+RT Journal Article
+K1 柴油机;净化消声装置;流场特性;声学特性
+YR 2014
+
+RT Journal Article
+K1 田囗三次设计;正交表;V形;外径测量;测量误差
+YR 2013
+
+RT Journal Article
+K1 橡胶悬置;静态刚度特性;有限元分析;解析公式;程序编写
+YR 2013
+
+RT Journal Article
+K1 上汽通用五菱公司;公司战略;技术创新战略;技术创新战略分析
+YR 2013
+
+RT Journal Article
+K1 柴油机;微粒测量;分流稀释;文丘里管;采样位置;采样器
+YR 2013
+
+RT Journal Article
+K1 底部挤压浇注;三菱PLC控制;远程监控;组态
+YR 2013
+
+RT Journal Article
+K1 中冷器管;高频焊接;工艺参数;质量控制
+YR 2013
+
+RT Journal Article
+K1 苏里格气田;增压工艺;无基础压缩机
+YR 2013
+
+RT Journal Article
+K1 粉末锻造;致密化;本构方程;有限元数值模拟;热处理;力学性能
+YR 2012
+
+RT Journal Article
+K1 航空发动机;压气机;DoE实验设计方法;气动优化
+YR 2012
+
+RT Journal Article
+K1 钢顶铝裙铰接式活塞;微合金化钢材料
+YR 2012
+
+RT Journal Article
+K1 介电特性;检测技术;频率响应;传感器;流体组分
+YR 2012
+
+RT Journal Article
+K1 CBN砂轮;汽车;凸轮轴
+YR 2012
+
+RT Journal Article
+K1 刷式密封;篦齿密封;组合密封;泄漏特性;试验研究
+YR 2021
+
+RT Journal Article
+K1 国六标准;燃油脱附;压力降;空气流量;检测频次
+YR 2021
+
+RT Journal Article
+K1 涡轮盘榫槽;电解切割;管电极;内喷液;浸没式
+YR 2021
+
+RT Journal Article
+K1 虚拟传感;燃烧特性;柴油机振动;排放建模;振动激励源;时频分析;实时预测
+YR 2021
+
+RT Journal Article
+K1 电弧增材制造;复合成形;高频微锻冲击强化;热处理制度;微观组织
+YR 2021
+
+RT Journal Article
+K1 航空材料;离散型制造;智能制造体系;建设思路
+YR 2021
+
+RT Journal Article
+K1 增程式电动汽车;能量管理策略;模糊控制;工况识别
+YR 2021
+
+RT Journal Article
+K1 变速器;混合动力传动系统;发动机;DHT;单电机;双积分;燃油经济性;低碳化;TMC2020
+YR 2020
+
+RT Journal Article
+K1 48V微混系统;动力电机;功率计算
+YR 2020
+
+RT Journal Article
+K1 树脂传递模塑;预制体;渗透率;仿真分析
+YR 2020
+
+RT Journal Article
+K1 钛合金叶片;机器人砂带磨削;材料去除;机器学习
+YR 2020
+
+RT Journal Article
+K1 激光重熔;YSZ热障涂层;CMAS高温腐蚀;组织致密度;元素扩散
+YR 2020
+
+RT Journal Article
+K1 Ti40阻燃钛合金;激光立体成形;阻燃性能;激光焊接;微观组织;力学性能
+YR 2020
+
+RT Journal Article
+K1 苯酚;选择性加氢;环己醇;HTW;Ni-Ag/SBA-15
+YR 2020
+
+RT Journal Article
+K1 钛合金;不锈钢;CMT;异种材料;微观组织;抗拉强度
+YR 2020
+
+RT Journal Article
+K1 柴油机;柴油颗粒捕捉器;碳载模型;离线标定
+YR 2019
+
+RT Journal Article
+K1 中置式气缸套;珩磨;平台网纹;过程能力研究;双腔橡胶包容夹具
+YR 2019
+
+RT Journal Article
+K1 青贮秸秆饲料;全混合日粮制备;取料装置;搅拌装置
+YR 2019
+
+RT Journal Article
+K1 JXZZ公司;竞争战略;PEST分析;SWOT分析;汽车零部件
+YR 2019
+
+RT Journal Article
+K1 可控六维力/力矩;推力矢量测试装置;压电测力仪;模拟加载
+YR 2019
+
+RT Journal Article
+K1 热原子系综;磁强计;核磁共振陀螺仪;角度测量;电子自旋;核自旋;灵敏度
+YR 2019
+
+RT Journal Article
+K1 铜合金;导电材料;纳米强化;产业化
+YR 2019
+
+RT Journal Article
+K1 Ti2AlNb基合金;组织演变;拉伸性能;抗氧化性;蠕变性能
+YR 2019
+
+RT Journal Article
+K1 半芳香族聚酰胺;玻璃纤维复合材料;熔融缩聚法;熔融共混法;动力学
+YR 2019
+
+RT Journal Article
+K1 活性元素;镍铝;大气等离子喷涂;热障涂层;粘结层;高温氧化
+YR 2019
+
+RT Journal Article
+K1 新能源汽车;电机;电控;台架测试
+YR 2018
+
+RT Journal Article
+K1 汉马H6系列;重型;牵引车
+YR 2018
+
+RT Journal Article
+K1 数控磨床;曲轴;连杆颈
+YR 2018
+
+RT Journal Article
+K1 台车;正面碰撞;试验方法;汽车;模拟
+YR 2018
+
+RT Journal Article
+K1 Al2O3-GdAlO3体系;共晶成分;组织结构;抗弯强度;裂纹愈合机制
+YR 2018
+
+RT Journal Article
+K1 TFA-MOD;厚度;钉扎中心;钉扎力;元素掺杂;SZO;BZO;REBCO涂层导体;临界温度Tc;在场性能
+YR 2018
+
+RT Journal Article
+K1 金枪鱼延绳钓船;油电混合动力;模糊逻辑控制;节能减排
+YR 2018
+
+RT Journal Article
+K1 压缩比;活塞顶;驻涡;渠化;Kriging;最优拉丁超立方
+YR 2018
+
+RT Journal Article
+K1 36MnVS4;光纤激光加工;裂解槽;胀断连杆;激光加工装备
+YR 2018
+
+RT Journal Article
+K1 预制体;机器人;三维针刺;轨迹规划;针刺模拟
+YR 2018
+
+RT Journal Article
+K1 燃料电池;电堆;科技;车用燃料;新能源汽车
+YR 2018
+
+RT Journal Article
+K1 改性聚丙烯;汽车冷却风扇;产业化;风扇离合器
+YR 2017
+
+RT Journal Article
+K1 控制系统;自动变速器;模式;驾驶
+YR 2017
+
+RT Journal Article
+K1 变速箱;平台化;轻量化;智能化;动力性
+YR 2017
+
+RT Journal Article
+K1 尾气;过滤系统;铁路内燃机车;毡
+YR 2017
+
+RT Journal Article
+K1 柴油-丁醇混合燃料;高温高压;喷雾特性;贯穿距;数值模拟
+YR 2017
+
+RT Journal Article
+K1 增程式电动汽车;热管理系统;APU协调控制;联合仿真
+YR 2017
+
+RT Journal Article
+K1 尾喷口-燃烧室对接;位姿计算与调整方法;误差建模与补偿方法
+YR 2017
+
+RT Journal Article
+K1 难变形金属;热强旋;形/性一体化控制;宏观成形质量;微观组织演变
+YR 2017
+
+RT Journal Article
+K1 商用车;驾驶室;液压翻转机构;悬置
+YR 2016
+
+RT Journal Article
+K1 汽车;车辆;测试;智能诊断;获得
+YR 2016
+
+RT Journal Article
+K1 结构件;碳纤维复合材料;材料结构;航空航天;高性能碳纤维
+YR 2016
+
+RT Journal Article
+K1 透明聚酰亚胺;低成本;形状记忆
+YR 2016
+
+RT Journal Article
+K1 乘用车;空气连接;导流箱;过滤
+YR 2016
+
+RT Journal Article
+K1 生物柴油;Candida sp.99-125脂肪酶;低温冷滤性质;工业化;生物航空燃料;Ni-Mo/γ-Al2O3催化剂;Ni-Mo/γ-Al2O3&Meso-SAPO-11催化剂
+YR 2016
+
+RT Journal Article
+K1 涂层;水浸超声;小波分析;希尔伯特—黄变换;厚度检测;金相法
+YR 2016
+
+RT Journal Article
+K1 组合式凸轮轴;扭转分析;疲劳分析;数值模拟;扩管联接
+YR 2016
+
+RT Journal Article
+K1 机电控制无级变速器;TCU;硬件在环;LABCAR;测试
+YR 2016
+
+RT Journal Article
+K1 高精密铸件;模型蜡;聚乙烯蜡;微晶蜡;α-烯烃聚合物
+YR 2016
+
+RT Journal Article
+K1 RBCC进气道;宽马赫数工作;变几何;数值模拟;调节规律
+YR 2015
+
+RT Journal Article
+K1 T-MAP;传感器;进气歧管;汽车
+YR 2015
+
+RT Journal Article
+K1 热机械固结;粉末压坯锻造;粉末压坯挤压;放电等离子烧结;钛;铝;铜;显微结构;力学性能
+YR 2015
+
+RT Journal Article
+K1 液压挖掘机;油液混合动力;系统优化设计;控制策略;能量管理
+YR 2015
+
+RT Journal Article
+K1 装备制造业;创新理论;制度
+YR 2015
+
+RT Journal Article
+K1 镍基高温合金;盘形锻件;铸锻工艺;微观组织;力学性能
+YR 2015
+
+RT Journal Article
+K1 凝固方式;合金性能;断面收缩率;拉伸实验;屈服强度
+YR 2015
+
+RT Journal Article
+K1 地沟油;生物柴油;流动改进剂;低温流动性
+YR 2015
+
+RT Journal Article
+K1 钛铝金属间化合物;原位复合技术;MAX相;强韧化技术
+YR 2015
+
+RT Journal Article
+K1 多层导电涂层;厚度;无损评估;多频涡流检测;实验研究
+YR 2015
+
+RT Journal Article
+K1 防空火箭弹;复合控制;气动布局;脉冲发动机
+YR 2015
+
+RT Journal Article
+K1 汽车电子燃油泵总成;直流无刷无位置传感器电机;反电动势法;测试平台
+YR 2015
+
+RT Journal Article
+K1 动力总成;振动;评估体系;汽车
+YR 2015
+
+RT Journal Article
+K1 参数优化;预测建模;复合铣削;整体叶盘
+YR 2015
+
+RT Journal Article
+K1 弹簧;质量;飞轮;汽车;离合器
+YR 2014
+
+RT Journal Article
+K1 离合器盖;汽车离合器;总成;螺旋弹簧
+YR 2014
+
+RT Journal Article
+K1 铝质;模块散热器;钎焊
+YR 2014
+
+RT Journal Article
+K1 内燃兰金循环;碳捕集;模拟研究;过热水
+YR 2013
+
+RT Journal Article
+K1 轻量化;技术创新;汽车;子系统;门;驱动
+YR 2013
+
+RT Journal Article
+K1 保持架;PTFE复合材料;纤维增强;混织布;层压复合材料
+YR 2013
+
+RT Journal Article
+K1 自由状态;闭口间隙测量;亚像素边缘提取;漏光检测
+YR 2013
+
+RT Journal Article
+K1 瓦斯发电;煤矿;通风
+YR 2013
+
+RT Journal Article
+K1 铝合金;温热成形性能;本构关系;成形极限图;冲压工艺
+YR 2013
+
+RT Journal Article
+K1 火箭发射台;铸钢件;质量
+YR 2012
+
+RT Journal Article
+K1 小型火箭;仿真;上升段;飞行动力学特性
+YR 2012
+
+RT Journal Article
+K1 变速器箱体;工艺设计;数控加工;柔性制造
+YR 2012
+
+RT Journal Article
+K1 LabVIEW;混合动力;模拟器;cRIO
+YR 2012
+
+RT Journal Article
+K1 压缩天然气;汽车尾气;甲烷;催化燃烧;Co3O4催化剂
+YR 2012
+
+RT Journal Article
+K1 镁合金;微观组织;高温性能;蠕变;热变形
+YR 2012
+
+RT Journal Article
+K1 镁合金;钬;微观组织;力学性能;强化机理
+YR 2012
+
+RT Journal Article
+K1 柴油机;SCR;通用性;定量喷射控制系统
+YR 2012
+
+RT Journal Article
+K1 旋转舵;二维弹道修正;控制策略;控制能力;控制精度
+YR 2012
+
+RT Journal Article
+K1 中型工程车;工程车;车型开发
+YR 2012
+
+RT Journal Article
+K1 镁合金;汽车零部件
+YR 2012
+
+RT Journal Article
+K1 纳微米;铝基复合材料;柴油机
+YR 2012
+
+RT Journal Article
+K1 级间分离装置;模块化;小弹径飞行器
+YR 2021
+
+RT Journal Article
+K1 CNC;数字孪生;Focas;labview
+YR 2021
+
+RT Journal Article
+K1 膨胀石墨;染料废水;含油污水;吸附
+YR 2021
+
+RT Journal Article
+K1 高镍三元正极;石墨烯;锂离子电池
+YR 2021
+
+RT Journal Article
+K1 金属氧族化合物;异质结构;金属掺杂;析氢反应;析氧反应;锌-空气电池
+YR 2021
+
+RT Journal Article
+K1 MCM-41;非均相催化剂;酸性;烯烃低聚
+YR 2021
+
+RT Journal Article
+K1 车架号检测识别;单字符检测识别;弱监督学习;卷积神经网络
+YR 2021
+
+RT Journal Article
+K1 磁力光整加工;选区激光熔化;AlSi10Mg合金曲面;75°梯形开槽磁极;表面质量
+YR 2021
+
+RT Journal Article
+K1 喷射沉积连续挤压;高硅铝合金;微观组织;演变
+YR 2021
+
+RT Journal Article
+K1 铝合金;热处理;低压铸造;熔体复合处理
+YR 2021
+
+RT Journal Article
+K1 C/C复合材料;扩散连接;玻璃陶瓷;剪切强度
+YR 2021
+
+RT Journal Article
+K1 轮胎;空腔共振噪声;带束层角度;冠带层缠绕张力;胎体帘线规格;三角胶高度;吸音棉
+YR 2021
+
+RT Journal Article
+K1 工业工程;机加工;精益生产;工艺优化
+YR 2021
+
+RT Journal Article
+K1 焊接质量;焊接技术;焊接设备;焊接系统
+YR 2021
+
+RT Journal Article
+K1 ZnO;紫外探测器;聚苯乙烯;微孔阵列;器件封装
+YR 2021
+
+RT Journal Article
+K1 非调质钢;无碳贝氏体;合金元素;相变;显微组织
+YR 2020
+
+RT Journal Article
+K1 合金材料;高效切削;刀具开发
+YR 2020
+
+RT Journal Article
+K1 复合精冲技术;小搭边挤压精冲;大尺寸厚板精冲;模具结构
+YR 2020
+
+RT Journal Article
+K1 科罗廖夫;科学与技术;布劳恩
+YR 2020
+
+RT Journal Article
+K1 润滑油;添加剂;发动机内燃机;工业;性能
+YR 2020
+
+RT Journal Article
+K1 定制产品;RIR-MOO;加权区间粗糙集;转换矩阵;优化设计
+YR 2020
+
+RT Journal Article
+K1 模块化;散热器总成;治具;工艺路线
+YR 2020
+
+RT Journal Article
+K1 丘陵山地拖拉机;中央处理单元;数据采集;传感器
+YR 2020
+
+RT Journal Article
+K1 高精度自由曲面反射;微结构光学元件;AR HUD光机系统;车载抬头显示系统
+YR 2020
+
+RT Journal Article
+K1 数据采集系统;加工中心;labview;开发及应用
+YR 2020
+
+RT Journal Article
+K1 碳纤维;环氧树脂;聚丙烯腈
+YR 2020
+
+RT Journal Article
+K1 大丝束;高强度;碳纤维
+YR 2020
+
+RT Journal Article
+K1 石墨烯;热离子发射;热辐射;能量转化;最优参数设计
+YR 2020
+
+RT Journal Article
+K1 精密加工;五轴加工;航天发动机;成套工艺
+YR 2020
+
+RT Journal Article
+K1 微型弹药;精确制导;微型导弹;制导炸弹;便携式导弹
+YR 2020
+
+RT Journal Article
+K1 重型火箭;有效载荷;空军基地;上面级;液氢液氧发动机;整流罩;卡纳维拉尔角;系统概述
+YR 2020
+
+RT Journal Article
+K1 精密铸造;型芯;高温合金;粉末冶金
+YR 2020
+
+RT Journal Article
+K1 氩气雾化;喷射成形;高温合金;TiAl合金;高速钢
+YR 2020
+
+RT Journal Article
+K1 本地差分隐私;云雾协同存储;AES-RS编码;工业互联网
+YR 2020
+
+RT Journal Article
+K1 纤维增强复合材料结构件;固化变形;有限元模拟;光纤光栅监测
+YR 2020
+
+RT Journal Article
+K1 负载型吸附剂;成型材料;脱硫动力学;吸附剂再生;选择性脱硫醇
+YR 2020
+
+RT Journal Article
+K1 钛铝合金;强韧化;球磨处理;原位自生;力学性能
+YR 2020
+
+RT Journal Article
+K1 ACC;虚拟场景;自然驾驶数据;聚类分析;Prescan;正交实验
+YR 2020
+
+RT Journal Article
+K1 V模式;硬件在环;电子控制器;高压共轨柴油机;现场可编程逻辑门阵列
+YR 2020
+
+RT Journal Article
+K1 铝合金薄板;胶接-磁脉冲焊接;耦合机理;高速剪切;中性盐雾腐蚀
+YR 2020
+
+RT Journal Article
+K1 模拟仿真;数据采集;罗技G29;客车动力学;软件开发
+YR 2020
+
+RT Journal Article
+K1 绿色柴油;催化加氢;反应路径;掺氮碳材料;反应动力学
+YR 2020
+
+RT Journal Article
+K1 气体动压箔片轴承;主动轴承;线性动态系数;轴承-转子系统;转子动力学;闭环控制
+YR 2020
+
+RT Journal Article
+K1 陶瓷轴承沟道;超精研加工;有限元仿真;表面粗糙度;沟形精度
+YR 2020
+
+RT Journal Article
+K1 聚四氟乙烯复合材料;摩擦磨损;转移膜特性;图像识别处理;分子动力学
+YR 2020
+
+RT Journal Article
+K1 二维材料;碳烟颗粒;接触性能;本征活性
+YR 2020
+
+RT Journal Article
+K1 流程再造理论;供应商管理理论;库存管理理论;战略性采购;操作性采购
+YR 2019
+
+RT Journal Article
+K1 两步等温淬火工艺;Cu合金化;ADI;疲劳性能;断裂韧性
+YR 2019
+
+RT Journal Article
+K1 粉末冶金;Inconel 718合金;复合结构;稳定性;粗化动力学;Al/Ti
+YR 2019
+
+RT Journal Article
+K1 汽车;变速装置;变速器;三轴式;机械齿轮
+YR 2019
+
+RT Journal Article
+K1 纯电动乘用车;永磁同步驱动电机系统;电机控制器
+YR 2019
+
+RT Journal Article
+K1 环保型;铅锡合金锭;铅酸电池
+YR 2019
+
+RT Journal Article
+K1 铅酸蓄电池;环保型;稀土合金锭
+YR 2019
+
+RT Journal Article
+K1 航空材料;高温合金;纯净化冶炼
+YR 2019
+
+RT Journal Article
+K1 GH4169合金;压气机静子内环;激光熔覆;显微组织;拉伸性能
+YR 2019
+
+RT Journal Article
+K1 复杂曲面;整体叶盘;磨料水射流;加工工艺
+YR 2019
+
+RT Journal Article
+K1 光伏并网系统;最大功率点;模糊最大功率点追踪算法
+YR 2019
+
+RT Journal Article
+K1 Mg-Al-Ca-Sn-Sr镁合金;力学性能;蠕变性能;蠕变机制;T6处理
+YR 2019
+
+RT Journal Article
+K1 TiAl基合金;非平衡凝固;热处理;强韧化;变形纳米孪晶
+YR 2019
+
+RT Journal Article
+K1 铝基复合材料;半固态重熔;组织演变;触变锻造
+YR 2019
+
+RT Journal Article
+K1 复杂工件;机器视觉;高精度测量;工位设计;由粗到精;边缘检测
+YR 2019
+
+RT Journal Article
+K1 镍基单晶高温合金;热处理;高温拉伸;热疲劳;低周疲劳
+YR 2019
+
+RT Journal Article
+K1 流场测试;多孔探针;风洞实验;信号处理;通讯技术
+YR 2019
+
+RT Journal Article
+K1 TA19钛合金;热变形;变形特征;组织演变;力学性能
+YR 2019
+
+RT Journal Article
+K1 股权质押;对外投资;掏空
+YR 2019
+
+RT Journal Article
+K1 叶片;旋风铣削;加工稳定性;曲面加工
+YR 2019
+
+RT Journal Article
+K1 分层挤出成形;陶瓷型芯;快速铸造;氧化铝陶瓷;精度控制
+YR 2019
+
+RT Journal Article
+K1 活塞衬环;PLC控制;PID算法;运动仿真
+YR 2019
+
+RT Journal Article
+K1 电子时间引信;通用测试系统;性能检测;自动测试
+YR 2019
+
+RT Journal Article
+K1 锂离子电池;正极材料;电化学—热;仿真模拟;电池组
+YR 2019
+
+RT Journal Article
+K1 脉冲电流;36MnVS4;力学性能;微观组织;疲劳寿命仿真
+YR 2019
+
+RT Journal Article
+K1 永磁同步电机;反电势积分法;IF控制;stm32;谐波注入
+YR 2019
+
+RT Journal Article
+K1 曲轴;非调质钢;成形技术;组织性能;多场耦合模拟
+YR 2018
+
+RT Journal Article
+K1 企业价值;研发支出;公司治理;主成分分析法
+YR 2018
+
+RT Journal Article
+K1 超高速;磁悬浮;电磁推进;EDS-EMS混合悬浮;极值搜索;扩张状态观测器;自抗扰控制
+YR 2018
+
+RT Journal Article
+K1 非道路;柴油机;排放标准;机电
+YR 2018
+
+RT Journal Article
+K1 制导火箭弹;姿态测量;弹道优化;序列二次规划;有限弹道弧
+YR 2018
+
+RT Journal Article
+K1 冲压型无翼超声速导弹;执行机构故障;等效输入扰动;扩张状态观测器;H∞控制;反步控制;欠驱动控制;自适应控制;抗饱和控制
+YR 2018
+
+RT Journal Article
+K1 双基推进剂;固体火箭发动机;助推器;点火器;点火压强峰;平衡段
+YR 2018
+
+RT Journal Article
+K1 难加工材料;GH99高温合金;电弧高效加工;组合加工
+YR 2018
+
+RT Journal Article
+K1 聚甲氧基二甲醚;有机酸;吸附剂;可再生性
+YR 2018
+
+RT Journal Article
+K1 可重构工艺方案设计;可重构制造;可重构机床;工序单元;工艺方案
+YR 2018
+
+RT Journal Article
+K1 双曲轴端面;数控;钻孔机
+YR 2018
+
+RT Journal Article
+K1 温度传感器;无线无源;高温测试;谐振频率;贴片天线;介电常数
+YR 2018
+
+RT Journal Article
+K1 镍基高温合金;镍基钎料;真空钎焊;团簇加连接原子模型;界面微观组织;剪切强度
+YR 2018
+
+RT Journal Article
+K1 参数优化;离合器;起步控制;实时仿真平台
+YR 2018
+
+RT Journal Article
+K1 机匣铸造;3D打印;铝合金;砂型
+YR 2018
+
+RT Journal Article
+K1 高硅铝合金缸套;化学刻蚀整形;机械珩磨整形;激光烧蚀整形;摩擦磨损
+YR 2018
+
+RT Journal Article
+K1 燃料电池;电催化;氧还原;低铂催化剂;非铂催化剂
+YR 2018
+
+RT Journal Article
+K1 TC4钛合金;电解加工;高效;异形型腔;有限元仿真
+YR 2018
+
+RT Journal Article
+K1 工艺缸盖;拆除设备;拆装流转线
+YR 2018
+
+RT Journal Article
+K1 碳纤维;聚酰胺;增强复合材料;双螺杆挤出法
+YR 2018
+
+RT Journal Article
+K1 微能高频电源;电极在线制备;浮动阈值放电检测;密集微细型腔;电火花精密数控装备
+YR 2017
+
+RT Journal Article
+K1 微能高频电源;浮动阈值放电检测;密集微细型腔;电火花精密数控装备
+YR 2017
+
+RT Journal Article
+K1 模具;一体化制造系统;开发
+YR 2017
+
+RT Journal Article
+K1 排放控制;汽油车;发动机电控单元;后处理系统
+YR 2017
+
+RT Journal Article
+K1 结合;整体式;模具;汽车变速器
+YR 2017
+
+RT Journal Article
+K1 CAN总线;ISO15765协议;故障诊断;数据流超范围警告色;数据流自学习功能
+YR 2017
+
+RT Journal Article
+K1 长碳链;半芳香族;耐热性聚酰胺;对苯二甲酸;1,10-癸二胺;聚酰胺10T/11;聚酰胺10T;直接熔融缩聚法
+YR 2017
+
+RT Journal Article
+K1 ESP;无点火器的火箭发动机;配方;工艺
+YR 2017
+
+RT Journal Article
+K1 双极板;PEMFC;材料研究;应用技术开发;材料工艺
+YR 2017
+
+RT Journal Article
+K1 备胎舱;噪声传递函数的;NVH性能
+YR 2017
+
+RT Journal Article
+K1 镁铝合金;无模;快速铸造
+YR 2017
+
+RT Journal Article
+K1 六西格玛设计;QFD;DICOV
+YR 2017
+
+RT Journal Article
+K1 三维信息恢复;自标定;结构提取;距离测量;场景重建
+YR 2017
+
+RT Journal Article
+K1 增程机控制器;电路;仿真模型;自动代码
+YR 2017
+
+RT Journal Article
+K1 汽车万用表;智能测量;油电混合
+YR 2017
+
+RT Journal Article
+K1 远程故障诊断;TD-LTE技术;OBD-II;数据传输
+YR 2017
+
+RT Journal Article
+K1 空气流量传感器;ZSC31010;标定;特性曲线;温度补偿
+YR 2017
+
+RT Journal Article
+K1 航空公司;能源效率;虚拟前沿面SBM;回归模型
+YR 2017
+
+RT Journal Article
+K1 聚碳硅烷;SiC陶瓷前驱体;硅杂烯配位聚合;前驱体改性;SiCf/SiC-ZrC复合材料
+YR 2017
+
+RT Journal Article
+K1 复杂曲面;磨粒流;涡轮整体叶盘;夹具;模拟分析
+YR 2017
+
+RT Journal Article
+K1 铸造高温合金;断续车削;连续车削;端面磨削;内圆磨削
+YR 2017
+
+RT Journal Article
+K1 CDA;飞行模拟;半实物仿真;基于模型设计;飞行控制
+YR 2017
+
+RT Journal Article
+K1 电子真空泵;不锈钢;粉末冶金
+YR 2017
+
+RT Journal Article
+K1 离合器;操纵系统;特性分析;试验研究;传递效率;性能改进
+YR 2017
+
+RT Journal Article
+K1 质量控制;质量问题;质量分析;质量特性;质量管理体系
+YR 2016
+
+RT Journal Article
+K1 高性能;关键金属构件;激光增材制造
+YR 2016
+
+RT Journal Article
+K1 全铝壳体;三轴全支撑;5前进档;减磨;降噪技术
+YR 2016
+
+RT Journal Article
+K1 再制造阈值;寿命预测;可再制造性评价;机械装备再制造
+YR 2016
+
+RT Journal Article
+K1 汽油发电机;点火器;磁电机;数码发电机
+YR 2016
+
+RT Journal Article
+K1 动能收集;能量收集器;微能源;微机电系统
+YR 2016
+
+RT Journal Article
+K1 油菜;联合收获;梳脱式;割台;仿真分析
+YR 2016
+
+RT Journal Article
+K1 混合励磁电机;电磁性能;交错磁极;无刷直流起动发电机;转子位置检测
+YR 2016
+
+RT Journal Article
+K1 三元叶轮;激光近净成形;预设夹角;倾斜薄壁结构;扭转薄壁结构
+YR 2016
+
+RT Journal Article
+K1 等离子喷涂;铸铁;基体;粒子形貌;粒子-基体结合
+YR 2016
+
+RT Journal Article
+K1 陶瓷前驱体;反应机理;陶瓷化机制;ZrC;SiC/ZrC;ZrB2/ZrC;SiC/ZrB2/ZrC;微观结构;催化石墨化
+YR 2016
+
+RT Journal Article
+K1 烧绿石;氧空位;碳烟燃烧;氮氧化物;催化去除;活性
+YR 2016
+
+RT Journal Article
+K1 灰铸铁粉末;颗粒形貌;正交试验;球磨;分形表征
+YR 2016
+
+RT Journal Article
+K1 太阳能发电;热磁发动机;磁性转变
+YR 2016
+
+RT Journal Article
+K1 茶产业;众创空间;安溪县
+YR 2016
+
+RT Journal Article
+K1 选择性催化还原;SCR;低温脱硝;V2O5-WO3/TiO2;催化剂;机动车;烟气;钒前驱体;涂覆型蜂窝体催化剂
+YR 2016
+
+RT Journal Article
+K1 数控改造;有限元分析;主轴;可靠性
+YR 2015
+
+RT Journal Article
+K1 Al-W合金;粉末压制;热变形行为;本构方程;塑性变形
+YR 2015
+
+RT Journal Article
+K1 六速手动变速器;集成式分离系统
+YR 2015
+
+RT Journal Article
+K1 手动变速器;多锥面同步器
+YR 2015
+
+RT Journal Article
+K1 化学气相沉积;纳米材料;氮化物;生长机理;光学性能;场发射
+YR 2015
+
+RT Journal Article
+K1 DD98M合金;MCrAlY涂层;热障涂层;纳米化;高温氧化;热腐蚀
+YR 2015
+
+RT Journal Article
+K1 整体叶盘;电解加工;扭曲叶片;整体阴极;钛合金
+YR 2015
+
+RT Journal Article
+K1 自动变速器;检测试验台;设计研制;性能测试
+YR 2015
+
+RT Journal Article
+K1 后驱豪华高端轿车;整车级重大开发;驾驶辅助安全系统;反应式引擎盖系统;薄壁铝精铸技术
+YR 2015
+
+RT Journal Article
+K1 运载器;大气层内;轨迹快速优化;闭环制导;改进间接法;正则摄动法;混合优化法;非线性规划
+YR 2015
+
+RT Journal Article
+K1 Cu-SSZ-13;原位水热合成;选择性催化还原;脱硝;柴油车尾气
+YR 2015
+
+RT Journal Article
+K1 汽车传动轴;汽车轻量化;微合金高强低碳钢;有限元分析;疲劳断裂;失效分析
+YR 2015
+
+RT Journal Article
+K1 发电机;法制;粉末冶金法
+YR 2015
+
+RT Journal Article
+K1 定向凝固;高温合金;DZ424
+YR 2015
+
+RT Journal Article
+K1 定向凝固高温合金;DZ424;合金热处理
+YR 2015
+
+RT Journal Article
+K1 结构光三维测量;测量精度;复杂因素;标定;彩色编码结构光;微相位测量轮廓术;混合离焦投影相位测量轮廓术
+YR 2015
+
+RT Journal Article
+K1 电控机械式自动变速器;行星齿轮机构;动力学分析;模式切换;建模仿真
+YR 2015
+
+RT Journal Article
+K1 铝合金连杆;闭式模锻;高温热压缩;DEFORM-3D;数值模拟;模具设计
+YR 2015
+
+RT Journal Article
+K1 装配过程;监控与控制;RFID;信息采集;质量数据
+YR 2015
+
+RT Journal Article
+K1 燃料电池;质子交换膜;复合膜;PTFE增强膜;稳定性
+YR 2015
+
+RT Journal Article
+K1 电动汽车;锂离子动力电池
+YR 2014
+
+RT Journal Article
+K1 三脚突缘;锻造工艺;半封闭复合挤压;数值模拟;复合模设计
+YR 2014
+
+RT Journal Article
+K1 TC6钛合金;筒类零件;加工工艺
+YR 2014
+
+RT Journal Article
+K1 智能车身控制;自动启停;一键启动
+YR 2014
+
+RT Journal Article
+K1 通用直升机;总体气动设计技术;航电综合设计技术;适航技术
+YR 2014
+
+RT Journal Article
+K1 电火花;电喷片;微孔加工
+YR 2014
+
+RT Journal Article
+K1 高效节能;钛合金;坩埚材料
+YR 2014
+
+RT Journal Article
+K1 双涡圈涡旋压缩机;几何参数;气体载荷;动力特性;MATLAB
+YR 2014
+
+RT Journal Article
+K1 TC4钛合金;线性摩擦焊;数值模拟
+YR 2014
+
+RT Journal Article
+K1 加工贸易;转移;承接;转型升级
+YR 2014
+
+RT Journal Article
+K1 高Nb-TiAl合金;铸造性能;数值模拟;熔模铸造
+YR 2014
+
+RT Journal Article
+K1 模糊Petri网;模糊推理;故障诊断;矩阵运算;专家系统
+YR 2014
+
+RT Journal Article
+K1 燃料电池;氧还原;非铂催化剂;氮掺杂碳材料;氮掺杂石墨烯
+YR 2014
+
+RT Journal Article
+K1 压铸;冲头;含气量;组态软件;气体标准曲线
+YR 2014
+
+RT Journal Article
+K1 飞行器结构;薄壁弱刚度结构;保形
+YR 2014
+
+RT Journal Article
+K1 小孔加工;再铸层;气膜冷却孔;组合加工;电火花加工;电解加工
+YR 2014
+
+RT Journal Article
+K1 阻燃钛合金Ti40;电解加工;型腔;流场设计;正交试验;表面质量;加工效率
+YR 2014
+
+RT Journal Article
+K1 无刷直流发电机;新能源汽车;车载发电系统;双凸极电机;优化设计;四相电机;増程式电动汽车;恒流/恒功率控制
+YR 2014
+
+RT Journal Article
+K1 轮式装载机;驱动防滑;GPS测速;限滑差速器
+YR 2013
+
+RT Journal Article
+K1 活塞环;漏光度;闭口间隙;自动检测;DSP图像处理;工程应用
+YR 2013
+
+RT Journal Article
+K1 装配时间;虚拟装配;人工神经网络
+YR 2013
+
+RT Journal Article
+K1 油液混合动力;挖掘机;压差补偿能量回收;节能;控制策略
+YR 2013
+
+RT Journal Article
+K1 大行程双进给珩磨头;静态分析;模态分析;结构优化
+YR 2013
+
+RT Journal Article
+K1 微孔冲裁;微细电火花;组合加工;电化学;有限元仿真
+YR 2013
+
+RT Journal Article
+K1 飞行模拟器;虚拟座舱;人机界面;GL Studio
+YR 2013
+
+RT Journal Article
+K1 镍基单晶合金;电火花磨削;表面完整性;灰理论
+YR 2013
+
+RT Journal Article
+K1 脆性材料;表面质量;点磨削;延性域磨削;有限元仿真
+YR 2013
+
+RT Journal Article
+K1 碳平衡法;排气直采式;油耗测量;Fluent;流量计
+YR 2013
+
+RT Journal Article
+K1 遥测;微带天线;MSP430单片机;无线传输
+YR 2013
+
+RT Journal Article
+K1 跨声速风扇;分流叶片;数值模拟;小叶片前掠
+YR 2013
+
+RT Journal Article
+K1 小微企业;信贷;银行
+YR 2013
+
+RT Journal Article
+K1 多通道数据采集;嵌入式系统;状态监测;RBF神经网络
+YR 2013
+
+RT Journal Article
+K1 生产线平衡优化;产能提升;改善;生产率
+YR 2013
+
+RT Journal Article
+K1 DE公司;供应商质量管理;策略
+YR 2013
+
+RT Journal Article
+K1 修井作业;井架;双动力;电动液压修井机
+YR 2013
+
+RT Journal Article
+K1 柴油机;非道路;低排放
+YR 2013
+
+RT Journal Article
+K1 柴油机;非道路;低排放
+YR 2013
+
+RT Journal Article
+K1 轿车;变速器;产业化
+YR 2012
+
+RT Journal Article
+K1 自动变速器;轿车变速器;AF508A01
+YR 2012
+
+RT Journal Article
+K1 微耕机;专利;成果;多功能;产业化;经济型
+YR 2012
+
+RT Journal Article
+K1 客车;车身结构;铝合金;轻量化;有限元
+YR 2012
+
+RT Journal Article
+K1 构件;复杂型面;超声;自动检测技术
+YR 2012
+
+RT Journal Article
+K1 SLS应用;尼龙粉末材料;高性能的塑料制件
+YR 2012
+
+RT Journal Article
+K1 里程延长;电动汽车;串联构型;整车控制;驱动控制;一体化集成
+YR 2012
+
+RT Journal Article
+K1 离心压气机;叶片扩压器;数值验证;不同形式分流叶片;前缘掠形
+YR 2012
+
+RT Journal Article
+K1 手动变速器;五倒档互锁;自锁滑块
+YR 2012
+
+RT Journal Article
+K1 线性摩擦焊;焊接工艺参数;轴向缩短量;温度场
+YR 2012
+
+RT Journal Article
+K1 挖坑机;有限元;仿真
+YR 2012
+
+RT Journal Article
+K1 双层客车;空调;制冷
+YR 2012
+
+RT Journal Article
+K1 装配过程;物联网;RFID;动作元;可视化
+YR 2012
+
+RT Journal Article
+K1 激光熔覆;梯度耐磨涂层;耐磨性能;硬度
+YR 2012
+
+RT Journal Article
+K1 四氢萘;硫磺微乳液;硫磺分散体;硫化;密封材料
+YR 2012
+
+RT Journal Article
+K1 球墨铸铁铸件;低温性能;铸态非合金化
+YR 2012
+
+RT Journal Article
+K1 Al-Mg2Si复合材料;AlTi细化剂;组织;力学性能
+YR 2012
+
+RT Journal Article
+K1 弹载计算机;地磁传感器;串口通信;TMS320C6747;Flash
+YR 2012
+
+RT Journal Article
+K1 镁合金;铸造
+YR 2012
+
+RT Journal Article
+K1 路面冷再生机;路面养护;环保施工
+YR 2012
+
+RT Journal Article
+K1 叶片;锻件;工装;计算机辅助设计;航空发动机
+YR 2012
+
+RT Journal Article
+K1 超声解调仪;光纤
+YR 2012

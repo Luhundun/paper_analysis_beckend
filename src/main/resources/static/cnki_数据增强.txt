@@ -1,0 +1,1439 @@
+RT Journal Article
+K1 环境声音分类;残差网络;多级残差网络;数据增强
+YR 2021
+
+RT Journal Article
+K1 数据增强;三维点云;深度学习;可解释性
+YR 2021
+
+RT Journal Article
+K1 小样本识别;度量学习;数据增强;生成对抗网络;注意力机制
+YR 2021
+
+RT Journal Article
+K1 计算机辅助诊断;数据增强;生成对抗网络;肺结节分割;三维卷积神经网络
+YR 2021
+
+RT Journal Article
+K1 数据增强;网络异常检测;过采样;不平衡学习;噪声清洗
+YR 2021
+
+RT Journal Article
+K1 数据增强;负样本学习;标签平滑;对比学习
+YR 2021
+
+RT Journal Article
+K1 行人重识别;注意力机制;数据增强;聚类;标签生成
+YR 2021
+
+RT Journal Article
+K1 网络安全;深度学习;入侵检测数据;生成对抗网络;数据增强
+YR 2021
+
+RT Journal Article
+K1 恶意代码数据;生成对抗网络;变分自编码器;深度学习;数据增强
+YR 2021
+
+RT Journal Article
+K1 蒙汉神经机器翻译;数据增强;字节对编码;预训练
+YR 2021
+
+RT Journal Article
+K1 领域知识;生成对抗网络;医学图像;数据增强;数据筛选
+YR 2021
+
+RT Journal Article
+K1 RNA结合蛋白;生成对抗网络;数据增强;卷积自编码器;长短期记忆网络
+YR 2021
+
+RT Journal Article
+K1 计算机科学;机器学习;不均衡数据分类;数据增强
+YR 2021
+
+RT Journal Article
+K1 短文本;语义相似度;孪生网络;Roberta模型;数据增强
+YR 2021
+
+RT Journal Article
+K1 成分句法分析;依存句法分析;词汇化树邻接语法;语言模型;数据增强
+YR 2021
+
+RT Journal Article
+K1 过程建模;生成对抗网络;数据增强;迁移学习;多任务学习
+YR 2021
+
+RT Journal Article
+K1 细粒度分类;注意力机制;数据增强;双线性网络;注意力学习;目标定位
+YR 2021
+
+RT Journal Article
+K1 意图识别;文本标注;数据增强;深度学习;知识图谱
+YR 2021
+
+RT Journal Article
+K1 推荐系统;数据增强;数据二值化;数据挖掘;特征扩展
+YR 2021
+
+RT Journal Article
+K1 人员搜索;视频监控;行人再识别;数据增强;排名损失
+YR 2019
+
+RT Journal Article
+K1 生成对抗网络;图像识别;葡萄叶片;数据增强
+YR 2021
+
+RT Journal Article
+K1 数据增强;问题生成模型;自动问答模型;质量控制
+YR 2021
+
+RT Journal Article
+K1 命名实体识别;数据增强;EDA;远程监督;Bootstrap
+YR 2021
+
+RT Journal Article
+K1 阅读理解;高考题;数据增强;深度学习
+YR 2021
+
+RT Journal Article
+K1 恶劣环境;人工智能;图像算法;数据增强;风格迁移
+YR 2021
+
+RT Journal Article
+K1 细粒度图像分类;数据增强;类激活映射;视觉注意力
+YR 2021
+
+RT Journal Article
+K1 数据增强;生成式对抗网络;Huber损失函数;睡眠脑电
+YR 2021
+
+RT Journal Article
+K1 生成对抗网络;飞机目标;红外图像;数据增强
+YR 2021
+
+RT Journal Article
+K1 数据增强;卷积神经网络;特征提取;剩余寿命预测
+YR 2021
+
+RT Journal Article
+K1 汉越;数据增强;同义词替换;神经机器翻译
+YR 2021
+
+RT Journal Article
+K1 离心压缩机;数据增强;生成对抗网络;迁移建模
+YR 2021
+
+RT Journal Article
+K1 酒标图像;深度学习;数据增强;视点变换;柱面建模
+YR 2021
+
+RT Journal Article
+K1 棉花苗期;杂草识别;数据增强;Faster R-CNN
+YR 2021
+
+RT Journal Article
+K1 深度伪造;深度学习;残差网络;特征提取;数据增强;人工智能安全
+YR 2021
+
+RT Journal Article
+K1 不均衡数据;长尾分布;数据增强;生成模型;深度生成模型;迁移学习
+YR 2021
+
+RT Journal Article
+K1 深度伪造;伪造检测;卷积神经网络;Xception网络;数据增强
+YR 2021
+
+RT Journal Article
+K1 神经机器翻译;数据增强;多样化解码
+YR 2021
+
+RT Journal Article
+K1 雷达目标识别;高分辨距离像;数据增强;生成对抗网络
+YR 2021
+
+RT Journal Article
+K1 人脸识别;深度卷积神经网络;数据增强
+YR 2020
+
+RT Journal Article
+K1 数据增强;歌声合成;librosa;音色编码器
+YR 2020
+
+RT Journal Article
+K1 能量分析攻击;残差网络;数据增强;密码芯片;深度学习
+YR 2020
+
+RT Journal Article
+K1 卷积神经网络;监督式学习;无监督学习;生成对抗网络;数据增强
+YR 2020
+
+RT Journal Article
+K1 无人驾驶;深度神经网络;训练策略;Moore-Penrose广义逆;优化算法;数据增强
+YR 2020
+
+RT Journal Article
+K1 GIS;局部放电;特高频图谱;数据增强
+YR 2020
+
+RT Journal Article
+K1 色情图像识别;深度学习;数据增强;PIRPDA
+YR 2020
+
+RT Journal Article
+K1 卷积神经网络;数据增强;批量归一化;Dropout;面部表情识别
+YR 2020
+
+RT Journal Article
+K1 暂态稳定;深度学习;深度残差网络;数据增强;电力系统;噪声;信息缺失
+YR 2019
+
+RT Journal Article
+K1 深度卷积生成对抗网络;数据增强;水产动物分类
+YR 2019
+
+RT Journal Article
+K1 改写检测;数据增强;孪生网络;低资源语言
+YR 2019
+
+RT Journal Article
+K1 深度学习;卷积神经网络;图像分类;数据增强
+YR 2019
+
+RT Journal Article
+K1 生成对抗网络;深度学习;肺结节;数据增强
+YR 2019
+
+RT Journal Article
+K1 混合现实;装配件检测;深度学习;数据增强
+YR 2019
+
+RT Journal Article
+K1 生成对抗网络;数据增强;图片分类;卷积神经网络;深度学习
+YR 2019
+
+RT Journal Article
+K1 特征提取;深度学习;数据增强;火灾识别
+YR 2020
+
+RT Journal Article
+K1 生成式对抗网络;模式崩溃;多尺寸卷积;残差单元;图灵测试
+YR 2019
+
+RT Journal Article
+K1 “四力”;数字化转型;数据增强;高德地图;“最多跑一次”;实践与思考;全媒体传播;信息资讯;网络舆情;阅读量
+YR 2019
+
+RT Journal Article
+K1 神经机器翻译;藏汉翻译;语音翻译
+YR 2019
+
+RT Journal Article
+K1 人名识别;Data Augmentation;新类型人名
+YR 2019
+
+RT Journal Article
+K1 糖尿病性视网膜病变;卷积神经网络;生成对抗网络;彩色眼底图像
+YR 2019
+
+RT Journal Article
+K1 行人重识别;卷积神经网络;概率超图;群组相似性;生成对抗网络
+YR 2019
+
+RT Journal Article
+K1 可重构卷积神经网络;小规模数据集;数据增强;随机失活;VGG-16
+YR 2021
+
+RT Journal Article
+K1 脑电;情绪识别;迁移学习;数据增强;图卷积神经网络;域适应
+YR 2021
+
+RT Journal Article
+K1 神经机器翻译;数据增强;多粒度;动态词向量
+YR 2021
+
+RT Journal Article
+K1 雷电灾害风险评估;雷电预测;神经网络;数据增强;ConvLstm
+YR 2021
+
+RT Journal Article
+K1 注意力机制;K-means++聚类;数据增强;迁移学习;多尺度训练
+YR 2021
+
+RT Journal Article
+K1 多保真度模型;层次回归模型;数据增强;精度
+YR 2021
+
+RT Journal Article
+K1 数据增强;生成对抗网络;壁画修复;超分辨率重建;迁移学习
+YR 2021
+
+RT Journal Article
+K1 生成对抗网络;图像生成;肿瘤识别;迁移学习;数据增强
+YR 2021
+
+RT Journal Article
+K1 神经网络;泛化;多头注意力;数据增强
+YR 2021
+
+RT Journal Article
+K1 深度卷积生成式对抗网络;条件生成式对抗网络;星座图;眼图;数据增强
+YR 2021
+
+RT Journal Article
+K1 行人检测;遮挡;骨干网络;数据增强
+YR 2021
+
+RT Journal Article
+K1 特征提取;深度学习;数据增强;火灾识别
+YR 2021
+
+RT Journal Article
+K1 生成式对抗网络;模式崩溃;多尺寸卷积;残差单元;图灵测试
+YR 2021
+
+RT Journal Article
+K1 “四力”;数字化转型;数据增强;高德地图;“最多跑一次”;实践与思考;全媒体传播;信息资讯;网络舆情;阅读量
+YR 2021
+
+RT Journal Article
+K1 神经机器翻译;藏汉翻译;语音翻译
+YR 2021
+
+RT Journal Article
+K1 贴片元件;深度学习;目标检测;数据增强
+YR 2021
+
+RT Journal Article
+K1 目标检测;平均精确度;模型压缩;数据增强;边缘部署
+YR 2021
+
+RT Journal Article
+K1 语义依存图;图转换算法;数据增强;图网络
+YR 2021
+
+RT Journal Article
+K1 货车测量;语义分割;RANSAC;自注意力;数据增强
+YR 2021
+
+RT Journal Article
+K1 行人重识别;数据增强;全局特征;局部特征;重排序
+YR 2021
+
+RT Journal Article
+K1 注意力机制;迁移学习;方言识别;数据增强;深度神经网络
+YR 2021
+
+RT Journal Article
+K1 细粒度图像分类;注意力机制;数据增强;双线性池化;特征融合
+YR 2021
+
+RT Journal Article
+K1 遥感图像;目标检测;YOLOv3;数据增强;分组卷积
+YR 2021
+
+RT Journal Article
+K1 深度学习;小样本学习;目标检测;数据增强
+YR 2021
+
+RT Journal Article
+K1 手机玻璃面板;凹凸型瑕疵;明场图像增强算法;特征提取;数据增强
+YR 2021
+
+RT Journal Article
+K1 显著性检测;数据增强;多标签监督;深度神经网络
+YR 2021
+
+RT Journal Article
+K1 水稻镉污染;超标风险预测;预测模型;数据增强;生成对抗网络
+YR 2021
+
+RT Journal Article
+K1 智慧司法;命名实体识别;数据增强;司法文书
+YR 2021
+
+RT Journal Article
+K1 深度学习;鸟类细粒度图像识别;视觉注意力;数据增强
+YR 2021
+
+RT Journal Article
+K1 太阳能电池片;缺陷检测;卷积神经网络;生成对抗网络;数据增强
+YR 2021
+
+RT Journal Article
+K1 滚动轴承;健康性能指标;剩余寿命预测;双向门控循环神经网络;数据增强
+YR 2021
+
+RT Journal Article
+K1 深度学习;中文情感分析;BERT;RoBERTa;数据增强
+YR 2021
+
+RT Journal Article
+K1 玉米病害识别;CNN模型;Resnet;迁移学习;数据增强;识别系统
+YR 2021
+
+RT Journal Article
+K1 中文字词纠错;遮蔽语言模型;易混淆词;预训练语言模型;数据增强
+YR 2021
+
+RT Journal Article
+K1 深度学习;人脸重建;人脸对齐;三维可形变模型;数据增强
+YR 2021
+
+RT Journal Article
+K1 异质图;图卷积网络;节点分类;元路径;数据增强
+YR 2021
+
+RT Journal Article
+K1 声学场景分类;深度建模;数据增强;线性逻辑回归
+YR 2021
+
+RT Journal Article
+K1 车型识别;卷积网络;深度学习;数据增强
+YR 2021
+
+RT Journal Article
+K1 多语言神经机器翻译;数据增强;完全参数共享
+YR 2021
+
+RT Journal Article
+K1 说话人识别;信道泛化;数据增强;对抗训练;鲁棒性元学习
+YR 2021
+
+RT Journal Article
+K1 电力系统;短期电压稳定;深度学习;数据增强;半监督聚类学习
+YR 2021
+
+RT Journal Article
+K1 多任务;模型无关元学习;数据增强;特征信息;长短期记忆
+YR 2021
+
+RT Journal Article
+K1 番茄;病害图像分类;残差网络;迁移学习;数据增强;多任务学习
+YR 2021
+
+RT Journal Article
+K1 生活垃圾分类;数据增强;目标检测;生成对抗网络;卷积神经网络
+YR 2021
+
+RT Journal Article
+K1 深度神经网络;动态网页设计;藏语语音识别;在线语音识别;数据增强
+YR 2021
+
+RT Journal Article
+K1 泛在统计图表;泛在信息;图表分类;信息提取;视觉特征;数据增强
+YR 2021
+
+RT Journal Article
+K1 卷积神经网络;胶囊网络;数据增强;自动标注
+YR 2021
+
+RT Journal Article
+K1 锚链闪光焊接质量检测;数据增强;卷积神经网络;联合网络
+YR 2021
+
+RT Journal Article
+K1 立场检测;领域泛化;数据增强;外部知识
+YR 2021
+
+RT Journal Article
+K1 物资出入库;数据增强;细粒度识别;OCR
+YR 2021
+
+RT Journal Article
+K1 刀具;磨损状态识别;深度学习;迁移联合匹配;数据增强
+YR 2021
+
+RT Journal Article
+K1 高光谱图像分类;卷积神经网络;数据增强;注意力机制
+YR 2021
+
+RT Journal Article
+K1 藏语语音识别;知识迁移;端到端;联结时序分类;数据增强
+YR 2021
+
+RT Journal Article
+K1 抑郁症;步态;机器学习;关节能量特征;数据增强
+YR 2021
+
+RT Journal Article
+K1 无人机识别;数据增强;小目标识别;深度学习;目标检测
+YR 2021
+
+RT Journal Article
+K1 网络流量异常检测;机器学习;无监督学习;神经网络;自编码器;变分自编码器;数据增强
+YR 2021
+
+RT Journal Article
+K1 人脸幻构;人脸检测;对抗训练;数据增强;注意力机制;自编码
+YR 2020
+
+RT Journal Article
+K1 数据增强;轻量级特征提取网络;GIOU损失函数;目标候选框;focal loss
+YR 2020
+
+RT Journal Article
+K1 西瓜病虫害;图像分割;图像识别;数据增强;迁移学习
+YR 2020
+
+RT Journal Article
+K1 岩性识别;岩性数据集;卷积神经网络;注意力机制;简化NiN块;数据增强
+YR 2020
+
+RT Journal Article
+K1 表面缺陷;生成对抗网络;数据增强;缺陷检测
+YR 2020
+
+RT Journal Article
+K1 混凝土裂缝;钢筋锈蚀;卷积神经网络;数据增强;神经网络优化
+YR 2020
+
+RT Journal Article
+K1 运动想象;脑电信号;卷积神经网络;极限学习机;数据增强;生成对抗网络
+YR 2020
+
+RT Journal Article
+K1 病虫害识别;卷积神经网络;数据增强;迁移学习
+YR 2020
+
+RT Journal Article
+K1 红外小目标检测;数据增强;生成对抗网络;图像梯度
+YR 2020
+
+RT Journal Article
+K1 数据增强;微表情识别;深度森林;卷积神经网络
+YR 2020
+
+RT Journal Article
+K1 深度学习;目标检测;智慧城市管理;卷积神经网络;数据增强
+YR 2020
+
+RT Journal Article
+K1 卷积神经网络;竹片检测;数据增强;改进YOLOv3网络;控制系统
+YR 2020
+
+RT Journal Article
+K1 高速铁路;钢轨波磨;信号处理;数据增强;深度学习
+YR 2020
+
+RT Journal Article
+K1 自然语言理解;数据增强;变分自编码器;意图识别与槽填充
+YR 2020
+
+RT Journal Article
+K1 卷积神经网络;类别不平衡;数据增强;优化函数;损失函数
+YR 2020
+
+RT Journal Article
+K1 高光谱图像分类;卷积神经网络;数据增强;注意力机制
+YR 2020
+
+RT Journal Article
+K1 藏语语音识别;知识迁移;端到端;联结时序分类;数据增强
+YR 2020
+
+RT Journal Article
+K1 抑郁症;步态;机器学习;关节能量特征;数据增强
+YR 2020
+
+RT Journal Article
+K1 无人机识别;数据增强;小目标识别;深度学习;目标检测
+YR 2020
+
+RT Journal Article
+K1 网络流量异常检测;机器学习;无监督学习;神经网络;自编码器;变分自编码器;数据增强
+YR 2020
+
+RT Journal Article
+K1 手写化学有机环;语义识别;旋转不变性;数据增强
+YR 2020
+
+RT Journal Article
+K1 3D重建;图像分割;卷积神经网络;Mask R-CNN;数据增强
+YR 2020
+
+RT Journal Article
+K1 年龄估计;深度学习;卷积神经网络;标记分布;数据增强
+YR 2020
+
+RT Journal Article
+K1 交直流混联电网;故障诊断;深度学习;堆叠稀疏自动编码器;深度置信网络;卷积神经网络;数据增强;深度卷积生成对抗网络
+YR 2020
+
+RT Journal Article
+K1 图像处理;轮轨振动噪声;扣件及轨道病害检测;数据增强;卷积神经网络;XGboost
+YR 2020
+
+RT Journal Article
+K1 虹膜检测;轻量级;数据增强;眼动数据分类;focal loss损失函数;注意力模块
+YR 2020
+
+RT Journal Article
+K1 高光谱图像分类;生成对抗网络;数据增强;小样本;空谱联合特征
+YR 2020
+
+RT Journal Article
+K1 目标跟踪;数据增强;深度卷积网络;早期特征融合;多解融合
+YR 2020
+
+RT Journal Article
+K1 番茄病害识别;卷积神经网络;迁移学习;特征融合;数据增强
+YR 2020
+
+RT Journal Article
+K1 语法错误纠正;语法错误检测;序列生成模型;数据增强;自然语言处理
+YR 2020
+
+RT Journal Article
+K1 绘画作品;作者识别;特征融合;多任务;数据增强
+YR 2020
+
+RT Journal Article
+K1 卷积神经网络;密集连接;多任务学习;数据增强;多尺度特征融合
+YR 2020
+
+RT Journal Article
+K1 转辙机;数据增强;生成对抗网络;故障诊断;深度学习
+YR 2020
+
+RT Journal Article
+K1 目标检测;级联重采样;双向特征金字塔;数据增强;注意力池化
+YR 2020
+
+RT Journal Article
+K1 蒙汉神经网络机器翻译;蒙古语子词向量;强化学习;数据增强
+YR 2020
+
+RT Journal Article
+K1 计算机视觉;图像识别;目标检测;军用飞机;深度学习;卷积神经网络;数据增强
+YR 2020
+
+RT Journal Article
+K1 三维人体建模;数据增强;二维点云;生成对抗网络;二值图
+YR 2020
+
+RT Journal Article
+K1 卷积神经网络;深度图像;数据增强;模型优化;人体关键点检测
+YR 2020
+
+RT Journal Article
+K1 行人重识别;卷积神经网络;数据增强;多层级特征;空间变换网络
+YR 2020
+
+RT Journal Article
+K1 深度学习;船舶目标检测;目标跟踪;数据增强;YOLOv3
+YR 2020
+
+RT Journal Article
+K1 深度学习;图像分类;类激活图;多尺度特征融合;数据增强;通道注意力
+YR 2020
+
+RT Journal Article
+K1 金属零件检测;生成对抗网络;数据增强;多尺度特征
+YR 2020
+
+RT Journal Article
+K1 血管分割;X光造影;数据增强;域适配;深度学习;计算机辅助诊断系统
+YR 2020
+
+RT Journal Article
+K1 卷积神经网络;乳腺癌病理图像;数据增强;迁移学习;图像识别
+YR 2019
+
+RT Journal Article
+K1 人脸幻构;Inception;Encoder-Decoder结构;对抗训练;数据增强
+YR 2019
+
+RT Journal Article
+K1 非均衡;数据增强;GAN;WGAN;CycleGAN;生成器
+YR 2019
+
+RT Journal Article
+K1 深度学习;指静脉识别;残差网络;数据增强;离散哈希
+YR 2019
+
+RT Journal Article
+K1 生成对抗网络;小样本问题;数据增强;分类检测;仪表指示状态
+YR 2019
+
+RT Journal Article
+K1 在线社交网络;情感极性多分类;评价指标;数据增强
+YR 2019
+
+RT Journal Article
+K1 分布式深度学习;模型平均;模型压缩;数据隐私保护;知识蒸馏;数据增强
+YR 2019
+
+RT Journal Article
+K1 少样本学习;二阶统计量;协方差度量;数据增强;星形三元组度量
+YR 2019
+
+RT Journal Article
+K1 深度学习;人脸识别;卷积神经网络;级联网络;数据增强
+YR 2019
+
+RT Journal Article
+K1 开放性文本评估;注意力机制;预训练语言模型;数据增强
+YR 2019
+
+RT Journal Article
+K1 人脸属性识别;通道信息共享;多任务卷积神经网络;数据增强
+YR 2019
+
+RT Journal Article
+K1 姿态估计;行为分类;深度学习;卷积神经网络;数据增强
+YR 2019
+
+RT Journal Article
+K1 新兴技术识别;数控机床;数据增强;深度学习;引用网络分析
+YR 2019
+
+RT Journal Article
+K1 卷积神经网络;深度学习;布匹瑕疵检测;特征提取;数据增强;网络结构;多尺度
+YR 2019
+
+RT Journal Article
+K1 异常行为检测;在线行为识别;移动有效卷积网络;移动未裁剪网络;数据增强
+YR 2019
+
+RT Journal Article
+K1 苹果叶面病害;迁移学习;数据增强;Faster R-CNN;Android
+YR 2019
+
+RT Journal Article
+K1 场景视觉室内定位;Harris特征;AlexNet网络模型;数据增强
+YR 2019
+
+RT Journal Article
+K1 生物识别;人脸识别;深度学习;数据增强;生成对抗神经网络
+YR 2019
+
+RT Journal Article
+K1 行为识别;卷积神经网络;部件;数据增强
+YR 2019
+
+RT Journal Article
+K1 深度卷积神经网络;人脸识别;自然场景;数据增强;网络剪枝
+YR 2019
+
+RT Journal Article
+K1 行人重识别;IDE网络;主干网络;数据增强;注意力机制
+YR 2019
+
+RT Journal Article
+K1 计算机视觉;鱼类识别;数据增强
+YR 2019
+
+RT Journal Article
+K1 人脸表情识别;数据增强;生成对抗网络;约束性循环一致生成对抗网络;上下文损失函数
+YR 2019
+
+RT Journal Article
+K1 马铃薯;表面缺陷;深度学习;卷积神经网络;数据增强
+YR 2019
+
+RT Journal Article
+K1 漆膜缺陷检测;计算机视觉;深度学习;数据增强
+YR 2019
+
+RT Journal Article
+K1 入侵检测;卷积神经网络;残差网络;数据增强;零样本学习
+YR 2019
+
+RT Journal Article
+K1 肺结节;检测;数据增强;深度学习;三维卷积
+YR 2019
+
+RT Journal Article
+K1 自优化光网络;故障预测;数据预处理;数据增强;深度神经网络
+YR 2019
+
+RT Journal Article
+K1 数据增强;深度卷积网络;CapsNets;指静脉识别;深度学习
+YR 2019
+
+RT Journal Article
+K1 情感分类;词向量;数据增强;深度学习;舆情监控
+YR 2019
+
+RT Journal Article
+K1 光学遥感船只图像;深度学习;船只检测和实例分割;数据增强
+YR 2019
+
+RT Journal Article
+K1 音频场景识别;数据增强;卷积神经网络;集成学习
+YR 2019
+
+RT Journal Article
+K1 对抗生成网络;强化学习;文本生成;深度学习
+YR 2020
+
+RT Journal Article
+K1 生成对抗网络;太阳能电池;图像增强;背景重构;缺陷检测
+YR 2020
+
+RT Journal Article
+K1 CT影像;肺部;分割;one-shot;U-net;R-FCN
+YR 2020
+
+RT Journal Article
+K1 可见光遥感;船舶目标;图像数据增强;深度卷积生成对抗网络
+YR 2020
+
+RT Journal Article
+K1 车型识别;生成对抗网络;注意力机制;领域自适应
+YR 2020
+
+RT Journal Article
+K1 无参考质量评价;视觉残差网络;显著性引导;非局部网络;循环生成对抗网络
+YR 2020
+
+RT Journal Article
+K1 音频分类;双重数据增强;梅尔声谱图;卷积神经网络;分类模型组
+YR 2020
+
+RT Journal Article
+K1 齿轮;轴承;复合故障;深度度量学习;深度卷积生成对抗网络
+YR 2020
+
+RT Journal Article
+K1 音频分类;双重数据增强;卷积神经网络;特征提取;随机森林;语谱图
+YR 2020
+
+RT Journal Article
+K1 数据不平衡;深度学习;异常检测;卷积神经网络;长短时记忆网络;注意力机制
+YR 2020
+
+RT Journal Article
+K1 行人再识别;风格学习;多粒度损失;视频监控
+YR 2020
+
+RT Journal Article
+K1 指静脉识别;图像增强;多任务学习模型;演示系统
+YR 2020
+
+RT Journal Article
+K1 医学图像处理;深度学习;生成对抗网络;胶囊网络
+YR 2020
+
+RT Journal Article
+K1 网络异常流量检测;数据不平衡;特征重要性;模型更新;KDD 99
+YR 2020
+
+RT Journal Article
+K1 深度神经网络;鲁棒性;变异;对抗样本
+YR 2019
+
+RT Journal Article
+K1 数据增强设计;新兴技术;智慧规划;ICT基础设施;人本尺度
+YR 2019
+
+RT Journal Article
+K1 图像分类;深度卷积神经网络;高斯混合模型;对抗神经网络;变分自编码器;数据增强算法
+YR 2019
+
+RT Journal Article
+K1 不平衡数据增强;生成式对抗网络;深度卷积生成式对抗网络;编辑最近邻;集成学习
+YR 2019
+
+RT Journal Article
+K1 枣园目标检测;Faster R-CNN;泛化迁移学习;数据增强;GF-6
+YR 2022
+
+RT Journal Article
+K1 混凝土裂缝;钢筋锈蚀;卷积神经网络;数据增强;神经网络优化
+YR 2022
+
+RT Journal Article
+K1 流量发现;流量识别;统计特征;数据增强
+YR 2022
+
+RT Journal Article
+K1 空间目标;ISAR像;小样本;迁移学习;数据增强
+YR 2022
+
+RT Journal Article
+K1 深度学习;小目标;特征融合;数据增强;上下文信息
+YR 2022
+
+RT Journal Article
+K1 自杀意念原因;标签增强;EDA;数据增强
+YR 2022
+
+RT Journal Article
+K1 入侵检测;数据增强;胶囊网络;SRU;多任务学习
+YR 2022
+
+RT Journal Article
+K1 超分辨率;U-Net网络;数据增强;双注意力;结构相似
+YR 2022
+
+RT Journal Article
+K1 轻量级神经网络;模型安全;反防御;二次防御;数据增强;对抗样本
+YR 2022
+
+RT Journal Article
+K1 行人重识别;高分辨率;特征提取;数据增强
+YR 2022
+
+RT Journal Article
+K1 高光谱;深度学习;数据增强;Hapke模型;自编码
+YR 2022
+
+RT Journal Article
+K1 交通标志;自动驾驶;数据增强;深度卷积神经网络;检测
+YR 2022
+
+RT Journal Article
+K1 高光谱图像分类;生成式对抗网络;卷积神经网络;数据增强
+YR 2022
+
+RT Journal Article
+K1 实体识别;嵌套实体识别;数据增强;BART
+YR 2022
+
+RT Journal Article
+K1 细粒度图像分类;空间混乱;多粒度;深度学习;数据增强;卷积神经网络;弱监督学习;局部区域
+YR 2021
+
+RT Journal Article
+K1 安全帽佩戴检测;特征图融合;数据增强;对抗样本;YOLOv4
+YR 2021
+
+RT Journal Article
+K1 对抗生成网络;样本生成;数据增强;模式崩塌
+YR 2021
+
+RT Journal Article
+K1 YOLOv4;残差网络;深度学习;卷积神经网络;数据增强;安检X光;违禁品识别
+YR 2021
+
+RT Journal Article
+K1 深度伪造;深度学习;Xception网络;数据增强
+YR 2021
+
+RT Journal Article
+K1 数据采样;近邻传播;动态赋权;增量采样;数据增强
+YR 2021
+
+RT Journal Article
+K1 短文本;低频词;数据增强;去噪;卡方统计
+YR 2021
+
+RT Journal Article
+K1 深度学习;小天体陨石坑检测;多视角重投影;数据增强;自学习
+YR 2021
+
+RT Journal Article
+K1 安全帽检测;YOLOv5s算法;数据增强;DenseBlock模块;SE-Net注意力模块
+YR 2021
+
+RT Journal Article
+K1 生成对抗网络;ECG;压缩感知;数据增强;卷积神经网络
+YR 2021
+
+RT Journal Article
+K1 红外目标检测;数据增强;模型剪枝;特征蒸馏;海思平台
+YR 2021
+
+RT Journal Article
+K1 网络安全;恶意代码;生成对抗网络;数据增强;分类检测
+YR 2021
+
+RT Journal Article
+K1 图像识别;深度学习;卷积神经网络;数据增强;迁移学习;微调
+YR 2021
+
+RT Journal Article
+K1 计算机应用;病虫害分类;显著性检测;多特征融合;数据增强
+YR 2021
+
+RT Journal Article
+K1 深度学习;图像质量评价;生成对抗网络;卷积神经网络;数据增强
+YR 2021
+
+RT Journal Article
+K1 命名实体识别;小样本;数据增强;联合训练;特征融合
+YR 2021
+
+RT Journal Article
+K1 机器视觉;视觉语言导航;余弦相似度;数据增强
+YR 2021
+
+RT Journal Article
+K1 数据增强;中文语法纠错;文本噪声;深度学习;序列到序列模型;BART噪声器
+YR 2021
+
+RT Journal Article
+K1 汉-越神经机器翻译;数据增强;伪平行句对;短语对齐表;短语替换
+YR 2021
+
+RT Journal Article
+K1 棉花采摘;检测;YOLOv4;聚类;SENet;模型;数据增强
+YR 2021
+
+RT Journal Article
+K1 暂态稳定;数据驱动;不平衡样本;迁移学习;数据增强;深度卷积生成对抗网络
+YR 2021
+
+RT Journal Article
+K1 样本有限;交通恐怖袭击;行为识别;数据增强;深度神经网络(DNN)
+YR 2021
+
+RT Journal Article
+K1 自主式水下机器人;水下对接;卷积神经网络;数据增强;完备交并比;余弦退火;混合精度
+YR 2021
+
+RT Journal Article
+K1 行人重识别;计算机视觉;深度学习;数据增强;特征鲁棒性;全局灰度转换;局部灰度转换
+YR 2021
+
+RT Journal Article
+K1 水下目标检测;侧扫声纳图像;深度学习;迁移学习;数据增强
+YR 2021
+
+RT Journal Article
+K1 疲劳驾驶检测;轻量化卷积神经网络;轻量级特征金字塔;柔性非极大值抑制;数据增强
+YR 2021
+
+RT Journal Article
+K1 眼底血管;神经网络;数据增强;图像预处理;双边滤波;特征提取;图像分割;残差网络;U-net
+YR 2021
+
+RT Journal Article
+K1 激光雷达;数据增强;点云稠密化;伪点云;地面分割;3D目标检测
+YR 2021
+
+RT Journal Article
+K1 加密数据流;深度学习;数据增强;卷积神经网络
+YR 2021
+
+RT Journal Article
+K1 小目标检测;数据增强;多尺度学习;上下文学习;生成对抗学习;无锚机制
+YR 2021
+
+RT Journal Article
+K1 火焰检测;目标检测;YOLO算法;数据增强;深度可分离卷积
+YR 2021
+
+RT Journal Article
+K1 图像相似度学习;深度学习;数据增强;多分辨率特征提取
+YR 2021
+
+RT Journal Article
+K1 中文语义相似度;数据增强;EDA;反向翻译
+YR 2021
+
+RT Journal Article
+K1 目标检测;改进YOLOv3;数据增强;平均准确率
+YR 2021
+
+RT Journal Article
+K1 改进VGG网络;弱监督;细粒度分类;数据增强;阿尔兹海默症
+YR 2021
+
+RT Journal Article
+K1 深度学习;人体姿态估计;对称空间变换网络;姿态非极大值抑制;数据增强
+YR 2021
+
+RT Journal Article
+K1 二维卷积神经网络;数据增强;龙首山西段;铜矿;智能找矿预测
+YR 2021
+
+RT Journal Article
+K1 环境声音分类;环境声音数据集;数据增强;卷积神经网络
+YR 2021
+
+RT Journal Article
+K1 生成对抗网络;状态监测;数据增强
+YR 2021
+
+RT Journal Article
+K1 运动想象;脑电信号;数据增强;短时傅里叶变换;卷积神经网络;AdaBoost算法
+YR 2021
+
+RT Journal Article
+K1 Yolo V3;表面缺陷;数据增强,特征融合
+YR 2021
+
+RT Journal Article
+K1 深度学习;显著性机制;目标检测;特征融合;数据增强
+YR 2021
+
+RT Journal Article
+K1 小样本学习;度量学习;数据增强;元学习;深度神经网络
+YR 2021
+
+RT Journal Article
+K1 复杂背景;目标检测;CenterNet;概率分布;数据增强
+YR 2021
+
+RT Journal Article
+K1 CPI预测;CNN-LSTM深度网络;面板数据;数据增强;动态预测
+YR 2021
+
+RT Journal Article
+K1 激光雷达;数据增强;点云稠密化;伪点云;地面分割;3D目标检测
+YR 2020
+
+RT Journal Article
+K1 加密数据流;深度学习;数据增强;卷积神经网络
+YR 2020
+
+RT Journal Article
+K1 小目标检测;数据增强;多尺度学习;上下文学习;生成对抗学习;无锚机制
+YR 2020
+
+RT Journal Article
+K1 高光谱图像分类;深度学习;生成对抗网络;卷积神经网络;支持向量机;数据增强
+YR 2020
+
+RT Journal Article
+K1 图例检测;孪生网络;数据增强;单样本学习
+YR 2020
+
+RT Journal Article
+K1 斗齿检测;计算机视觉;数据增强;特征匹配;嵌入式处理器
+YR 2020
+
+RT Journal Article
+K1 零样本学习;语义空间;映射加强;数据增强;余弦相似度;对比损失
+YR 2020
+
+RT Journal Article
+K1 受控场景;卷积神经网络;残差整流;数据增强;激励函数;表情识别
+YR 2020
+
+RT Journal Article
+K1 车道保持;端对端学习;卷积神经网络;数据增强
+YR 2020
+
+RT Journal Article
+K1 不锈钢焊缝缺陷分类;卷积神经网络;图像预处理;AlexNet模型;迁移学习;数据增强;焊缝数据集;深度学习
+YR 2020
+
+RT Journal Article
+K1 图像识别;生成对抗网络;G-GAN模型;数据增强
+YR 2020
+
+RT Journal Article
+K1 人脸属性识别;自监督学习;生成对抗网络(GAN);数据增强;小样本训练
+YR 2020
+
+RT Journal Article
+K1 迁移学习;图像处理;数据增强;深度卷积网络
+YR 2020
+
+RT Journal Article
+K1 浏览器指纹;安卓;数据增强;循环神经网络;渐进式Web应用
+YR 2020
+
+RT Journal Article
+K1 手势识别;CNN;SVM;特征提取;图像分割;数据增强
+YR 2020
+
+RT Journal Article
+K1 视觉跟踪;数据增强;注意力机制;全局上下文;长时定位
+YR 2020
+
+RT Journal Article
+K1 道路交通标识识别;图像分割;卷积神经网络;去除复杂背景;数据增强;归一化;压缩和激励网络;残差连接
+YR 2020
+
+RT Journal Article
+K1 生成对抗网络;卷积神经网络;数据增强;高光谱图像分类
+YR 2020
+
+RT Journal Article
+K1 人脸篡改;图像分类;预训练模型;数据增强;标签平滑
+YR 2020
+
+RT Journal Article
+K1 糖尿病性视网膜病变检测;多重迁移;卷积神经网络;数据增强
+YR 2020
+
+RT Journal Article
+K1 智能交通;路面标志识别;深度卷积生成对抗网络;Faster R-CNN;数据增强
+YR 2020
+
+RT Journal Article
+K1 机器学习;样本均衡化;生成对抗网络;组织切片;数据增强
+YR 2020
+
+RT Journal Article
+K1 卷积神经网络;工程图纸识别;工程图纸分类;数据增强
+YR 2020
+
+RT Journal Article
+K1 乳腺癌;图像分类;卷积神经网络;Inception;迁移学习;数据增强
+YR 2020
+
+RT Journal Article
+K1 语法纠错;多头注意力;动态残差结构;数据增强
+YR 2020
+
+RT Journal Article
+K1 健康监测;损伤识别;神经网络;信息融合;网络构建;损伤敏感特征;数据增强;模态分析
+YR 2020
+
+RT Journal Article
+K1 图像处理;目标检测;垃圾识别;数据增强;神经网络训练;背景干扰
+YR 2020
+
+RT Journal Article
+K1 表面缺陷检测;可形变卷积;小目标扩充;样本平衡;数据增强
+YR 2020
+
+RT Journal Article
+K1 智能感知光网络;光性能监测;自由空间光通信;生成对抗网络;机器学习;卷积神经网络;数据增强;深度强化学习;可编程光收发器
+YR 2020
+
+RT Journal Article
+K1 电压暂降;经济损失;深度神经网络;随机失活层;数据增强
+YR 2020
+
+RT Journal Article
+K1 深度聚类;神经网络;局部结构保存;数据增强;自步学习
+YR 2020
+
+RT Journal Article
+K1 行为识别;VGGNet-16;Inflating;ImageNet预训练;数据增强
+YR 2020
+
+RT Journal Article
+K1 图像处理;目标检测;数据增强;深度特征金字塔;级联;合成孔径雷达图像
+YR 2019
+
+RT Journal Article
+K1 烟雾识别;稠密连接;卷积神经网络;深度学习;数据增强
+YR 2019
+
+RT Journal Article
+K1 人脸关键点检测;卷积神经网络;级联回归;数据增强
+YR 2019
+
+RT Journal Article
+K1 行人重识别;特征学习;注意力机制;数据增强;显著特征
+YR 2019
+
+RT Journal Article
+K1 深度学习;卷积神经网络;数据增强;迁移学习;乳腺癌病理图像诊断
+YR 2019
+
+RT Journal Article
+K1 签名识别;深度特征;三维图像处理;特征提取;数据增强
+YR 2019
+
+RT Journal Article
+K1 SSD目标检测框架;数据增强;低对比度;示值识别
+YR 2019
+
+RT Journal Article
+K1 小样本数据集;数据增强;径向变换;卷积神经网络;胃肿瘤细胞图像识别
+YR 2019
+
+RT Journal Article
+K1 能源细胞-组织;即插即用;日前负荷概率预测;分位点;pinball损失函数;深度LSTM;数据增强
+YR 2019
+
+RT Journal Article
+K1 手绘草图识别;卷积神经网络;网络模型;数据增强
+YR 2019
+
+RT Journal Article
+K1 少样本学习;数据增强;迁移学习;度量学习;元学习
+YR 2019
+
+RT Journal Article
+K1 残差网络;生成对抗网络;人脸识别;中心损失;数据增强
+YR 2019
+
+RT Journal Article
+K1 声纹识别;抗噪;数据增强;注意力机制
+YR 2019
+
+RT Journal Article
+K1 图像处理;目标检测;数据增强;深度特征金字塔;级联;合成孔径雷达图像
+YR 2022
+
+RT Journal Article
+K1 深度学习;行人重识别;loss,baseline;softmax
+YR 2022
+
+RT Journal Article
+K1 深度学习;微表情识别;教学分析;学习状态分析;教学反馈
+YR 2022
+
+RT Journal Article
+K1 应急疏散;生成对抗网络;卷积神经网络;风险评估
+YR 2022
+
+RT Journal Article
+K1 人工智能;杂草识别;轻量卷积;损失函数;知识蒸馏
+YR 2022
+
+RT Journal Article
+K1 数控机床;热误差;高斯过程回归;粒子群优化算法
+YR 2022
+
+RT Journal Article
+K1 深度学习;目标检测;松材线虫病检测
+YR 2022
+
+RT Journal Article
+K1 作物;害虫识别;EfficientNet;坐标注意力机制;Adam;IP102数据集
+YR 2021
+
+RT Journal Article
+K1 烟火识别;深度学习;YOLO5;目标检测
+YR 2021
+
+RT Journal Article
+K1 车牌识别;卷积神经网络;OCR;图像处理
+YR 2021
+
+RT Journal Article
+K1 无人机巡检;YOLOv3;深度可分离卷积;PANet;目标检测
+YR 2021
+
+RT Journal Article
+K1 多轴工业机器人;故障诊断;一维卷积神经网络;正交正则化
+YR 2021
+
+RT Journal Article
+K1 合成孔径雷达图像;目标识别;自注意力;深度学习
+YR 2021
+
+RT Journal Article
+K1 锈蚀钢筋;锈蚀率;深度卷积神经网络;图像分类;残差网络
+YR 2021
+
+RT Journal Article
+K1 智能交通;交通标志牌识别;级联(Cascade) R-CNN
+YR 2021
+
+RT Journal Article
+K1 红外目标检测;激光雷达;机器视觉;深度学习;相对定位
+YR 2021
+
+RT Journal Article
+K1 目标检测;无人机;通道剪枝;模型压缩;YOLOv3
+YR 2021
+
+RT Journal Article
+K1 图像超分;卷积;残差;峰值信噪比;结构相似性
+YR 2021
+
+RT Journal Article
+K1 赤足足迹;关系网络;足迹识别;自编码器
+YR 2021
+
+RT Journal Article
+K1 柑橘黄龙病;Mixup算法;梯度下降;卷积神经网络;Xception网络
+YR 2021
+
+RT Journal Article
+K1 商业模式;生产要素;数据增强;数据中心;云服务提供商;数据价值;价值链理论
+YR 2021
+
+RT Journal Article
+K1 粮虫检测;小目标;YOLOv3;GIoU;K-means聚类
+YR 2021
+
+RT Journal Article
+K1 胃溃疡;消化内镜;深度学习;空洞卷积;人工智能
+YR 2021
+
+RT Journal Article
+K1 深度学习;乳腺癌;组织病理学图像;图像分类;特征融合;压缩和激励网络(SENet)
+YR 2021
+
+RT Journal Article
+K1 电子鼻;增强卷积神经网络;增量学习;漂移抑制
+YR 2021
+
+RT Journal Article
+K1 人工智能;杂草识别;轻量卷积;激活函数;迁移学习
+YR 2021
+
+RT Journal Article
+K1 行人重识别;随机擦除;残差网络;注意力机制;深度学习
+YR 2021
+
+RT Journal Article
+K1 图像处理;单木树种分类;卷积神经网络;高分遥感影像;深度学习
+YR 2021
+
+RT Journal Article
+K1 微藻;卷积神经网络;自动识别
+YR 2020
+
+RT Journal Article
+K1 深度学习;计算机视觉;卷积神经网络;小目标检测
+YR 2020
+
+RT Journal Article
+K1 无人机;农作物;图像识别;深度学习;迁移学习
+YR 2020
+
+RT Journal Article
+K1 铁路桥梁裂缝;自动分类;数据增强;Faster R-CNN;特征提取
+YR 2020
+
+RT Journal Article
+K1 集装箱箱号定位;深度学习;Faster R-CNN;候选区域;数据增强
+YR 2020
+
+RT Journal Article
+K1 合作目标;目标检测;数据增强;改进YOLOv2;卷积神经网络
+YR 2020
+
+RT Journal Article
+K1 图像识别;深度残差网络;迁移学习;毒蕈;数据增强
+YR 2020
+
+RT Journal Article
+K1 机器翻译;数据增强;CCMT2019;中国中文信息学会
+YR 2019
+
+RT Journal Article
+K1 烟雾识别;深度学习;计算机视觉;暗通道特征;生成对抗网络
+YR 2019
+
+RT Journal Article
+K1 烟雾识别;卷积神经网络;膨胀卷积;稠密连接;数据增强
+YR 2019
+
+RT Journal Article
+K1 管道巡检;深度学习;航拍图像;小目标检测;数据增强;迁移学习
+YR 2019
+
+RT Journal Article
+K1 自动识别;小肠息肉;卷积神经网络;迁移学习;无线胶囊内窥镜
+YR 2019
+
+RT Journal Article
+K1 深度学习;目标检测;SSD模型;Res Net-101模型;特征金字塔网络(FPN)
+YR 2019
+
+RT Journal Article
+K1 心肌梗死;统计特征;熵特征;随机森林算法;交叉验证;12导联心电图
+YR 2019
+
+RT Journal Article
+K1 卷积神经网络;断层识别
+YR 2019
+
+RT Journal Article
+K1 危险品;CNN;自动识别;不均衡;GAN
+YR 2019
+
+RT Journal Article
+K1 迁移学习;卷积神经网络;番茄病虫害;VGG-19模型;支持向量机
+YR 2019
+
+RT Journal Article
+K1 无人水下航行器;智能识别;深度卷积神经网络;迁移学习
+YR 2019
+
+RT Journal Article
+K1 图像识别;树种识别;深度学习;迁移学习;集成学习
+YR 2019
