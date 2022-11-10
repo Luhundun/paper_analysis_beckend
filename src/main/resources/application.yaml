@@ -1,0 +1,8 @@
+
+spring:
+    datasource: #???
+        driver-class-name: com.mysql.cj.jdbc.Driver #?????
+        url: jdbc:mysql://sh-cynosdbmysql-grp-5py7nchi.sql.tencentcdb.com:22488/paper  # ???? JDBC URL
+        username: root
+        password: ydingt00Y  #????????
+

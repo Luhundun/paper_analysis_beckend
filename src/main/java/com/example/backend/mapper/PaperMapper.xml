@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.backend.mapper.PaperMapper">
+
+    <resultMap id="BaseResultMap" type="com.example.backend.Objects.Paper">
+            <id property="pid" column="pid" jdbcType="BIGINT"/>
+            <result property="paperName" column="paper_name" jdbcType="VARCHAR"/>
+            <result property="authors" column="authors" jdbcType="VARCHAR"/>
+            <result property="institues" column="institues" jdbcType="VARCHAR"/>
+            <result property="journal" column="journal" jdbcType="VARCHAR"/>
+            <result property="year" column="year" jdbcType="INTEGER"/>
+            <result property="keywords" column="keywords" jdbcType="VARCHAR"/>
+            <result property="abs" column="abs" jdbcType="VARCHAR"/>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        pid,paper_name,authors,
+        institues,journal,year,
+        keywords,abs
+    </sql>
+</mapper>

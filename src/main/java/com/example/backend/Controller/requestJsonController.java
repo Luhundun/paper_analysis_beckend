@@ -3,7 +3,7 @@ package com.example.backend.Controller;
 import com.example.backend.Objects.KeyWordSequenceNode;
 import com.example.backend.Objects.Link;
 import com.example.backend.Objects.Node;
-import com.example.backend.Objects.Paper;
+import com.example.backend.Objects.TempPaper;
 import com.example.backend.Service.KeyWordSequenceService;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.CrossOrigin;
@@ -50,7 +50,7 @@ public class requestJsonController {
             default:
                 filePath="src/main/resources/static/cnki_可解释.txt";break;
         }
-        ArrayList<Paper> papers = keyWordSequenceService.getPapers(filePath);
+        ArrayList<TempPaper> papers = keyWordSequenceService.getPapers(filePath);
         keyWordSequenceService.selectPaperByYear(papers,beginYear,endYear);
         ArrayList<Node> nodes = keyWordSequenceService.getNodes(papers);
         keyWordSequenceService.selectNodeByMinValue(nodes,minValue);

@@ -1,7 +1,8 @@
-package com.example.backend.Service;
+package com.example.backend.Service.impl;
 
 import com.alibaba.fastjson.JSON;
 import com.example.backend.Objects.*;
+import com.example.backend.Service.KeyWordSequenceService;
 import org.springframework.stereotype.Service;
 
 import java.io.BufferedReader;
@@ -20,18 +21,18 @@ import static com.example.backend.utils.GraphUtil.isCollide;
  * @Version: v1.0
  */
 @Service
-public class KeyWordSequenceServiceImpl implements KeyWordSequenceService{
+public class KeyWordSequenceServiceImpl implements KeyWordSequenceService {
 
     /**
      * @Description: 匹配文献列表
      * @param: [path]
-     * @return: java.util.ArrayList<com.example.backend.Objects.Paper>
+     * @return: java.util.ArrayList<com.example.backend.Objects.TempPaper>
      * @auther: Lu Ning
      * @date: 2022/11/1 15:41
      */
     @Override
-    public ArrayList<Paper> getPapers(String path) throws IOException {
-        ArrayList<Paper> list = new ArrayList<>();
+    public ArrayList<TempPaper> getPapers(String path) throws IOException {
+        ArrayList<TempPaper> list = new ArrayList<>();
         BufferedReader reader = Files.newBufferedReader(Paths.get(path));
         String nextText = reader.readLine();
         while (nextText!=null){
@@ -43,7 +44,7 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService{
             //读取年份
             int year = Integer.parseInt(reader.readLine().substring(3));
             //加入paper列表
-            Paper temp = new Paper(words,year);
+            TempPaper temp = new TempPaper(words,year);
             list.add(temp);
             //去空行
             nextText = reader.readLine();
@@ -57,9 +58,9 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService{
 
     //通过限制发表年份来筛选文章
     @Override
-    public ArrayList<Paper> selectPaperByYear(ArrayList<Paper> papers,int begin,int end) {
+    public ArrayList<TempPaper> selectPaperByYear(ArrayList<TempPaper> papers, int begin, int end) {
         for (int i=0;i< papers.size();i++){
-            Paper paper = papers.get(i);
+            TempPaper paper = papers.get(i);
             //去除不符合年份的文章，i--防止报错
             if(paper.getYear()<begin||paper.getYear()>end){
                 papers.remove(i);
@@ -98,14 +99,14 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService{
      * @date: 2022/11/1 16:14
      */
     @Override
-    public ArrayList<Node> getNodes(ArrayList<Paper> papers){
+    public ArrayList<Node> getNodes(ArrayList<TempPaper> papers){
 
         //按照文章发表年份预排序
         papers.sort((a,b)->
             a.getYear()-b.getYear()
         );
         ArrayList<Node> nodes = new ArrayList<>();
-        for (Paper paper:papers){
+        for (TempPaper paper:papers){
             for (String keyword:paper.getKeywords()){
                 //可优化时间复杂度
                 //若关键字存在则增加大小
@@ -139,9 +140,9 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService{
      * @date: 2022/11/1 16:30
      */
     @Override
-    public ArrayList<Link> getLinks(ArrayList<Paper> papers, ArrayList<Node> nodes){
+    public ArrayList<Link> getLinks(ArrayList<TempPaper> papers, ArrayList<Node> nodes){
         ArrayList<Link> links = new ArrayList<>();
-        for (Paper paper:papers){
+        for (TempPaper paper:papers){
             int linkLength = paper.getKeywords().length;
             //根据文章关键字获取关键字节点
             for(int i=0;i<linkLength-1;i++){
@@ -281,7 +282,7 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService{
 
     //测试部分
 //    public static void main(String[] args) throws IOException {
-//        ArrayList<Paper> papers = getPapers("src/main/resources/static/cnki_可解释.txt");
+//        ArrayList<TempPaper> papers = getPapers("src/main/resources/static/cnki_可解释.txt");
 //
 //        int beginYear=2017,endYear=2022;
 //        int nodeMinValue=2;

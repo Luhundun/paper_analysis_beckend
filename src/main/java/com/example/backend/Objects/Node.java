@@ -25,6 +25,9 @@ public class Node {
     @JSONField(name = "symbolSize")
     protected double symbolSize;
 
+    @JSONField(name = "value")
+    protected double value;
+
     //坐标
     @JSONField(name = "x")
     protected double x;

@@ -19,8 +19,7 @@ public class KeyWordSequenceNode extends Node{
 
 
 
-    @JSONField(name = "value")
-    private double value;
+
     @JSONField(serialize = false)
     private int year;
     @JSONField(name = "category")
@@ -43,7 +42,7 @@ public class KeyWordSequenceNode extends Node{
     @Override
     public String toString() {
         return "KeyWordSequenceNode{" +
-                "value=" + value +
+                "value=" +value  +
                 ", year=" + year +
                 ", category=" + category +
                 ", id='" + id + '\'' +
