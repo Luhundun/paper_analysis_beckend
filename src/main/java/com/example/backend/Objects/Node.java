@@ -4,6 +4,7 @@ import com.alibaba.fastjson.annotation.JSONField;
 import lombok.Data;
 
 import java.util.List;
+import java.util.Objects;
 
 /**
  * @ClassName: Node
@@ -16,6 +17,7 @@ import java.util.List;
 @Data
 public class Node {
 
+    public static int num=1;
     @JSONField(name = "id")
     protected String id;
     @JSONField(name = "name")
@@ -29,10 +31,7 @@ public class Node {
     protected double value;
 
     //坐标
-    @JSONField(name = "x")
-    protected double x;
-    @JSONField(name = "y")
-    protected double y;
+
 
     //出度
     @JSONField(serialize = false)
@@ -40,6 +39,27 @@ public class Node {
     //入度
     @JSONField(serialize = false)
     protected int inDegree=0;
+
+    @JSONField(name = "category")
+    protected int category;
+
+    public Node() {
+    }
+    public Node(String name) {
+        this.id=String.valueOf(num++);
+        this.name = name;
+        this.value = 1;
+    }
+
+    public Node(String id, String name, double symbolSize, double value, int outDegree, int inDegree, int category) {
+        this.id = id;
+        this.name = name;
+        this.symbolSize = symbolSize;
+        this.value = value;
+        this.outDegree = outDegree;
+        this.inDegree = inDegree;
+        this.category = category;
+    }
 
     public static boolean isInList(String name, List<Node> nodes){
         for (Node node:nodes){
@@ -50,6 +70,7 @@ public class Node {
         return false;
     }
 
+
     public static Node getInList(String name, List<Node> nodes){
         for (Node node:nodes){
             if (name.equals(node.getName())){
@@ -58,4 +79,19 @@ public class Node {
         }
         return null;
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Node node = (Node) o;
+        return Objects.equals(id, node.id) && Objects.equals(name, node.name);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(id, name);
+    }
+
+
 }

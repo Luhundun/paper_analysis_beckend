@@ -18,18 +18,21 @@ public class KeyWordSequenceNode extends Node{
     public static int num=0;
 
 
-
+    @JSONField(name = "x")
+    protected double x;
+    @JSONField(name = "y")
+    protected double y;
 
     @JSONField(serialize = false)
     private int year;
-    @JSONField(name = "category")
-    private int category;
+
 
 
     public KeyWordSequenceNode(String name, int year) {
         this.id = String.valueOf(num++);
         this.name = name;
-        this.symbolSize = 1;
+//        this.symbolSize = 1;
+        this.value = 1;
         this.year = year;
     }
 

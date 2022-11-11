@@ -31,9 +31,11 @@ public class Link {
 
     @JSONField(name = "lineStyle")
     private LineStyle lineStyle;
-    public Link(String source, String target) {
-        this.source = source;
-        this.target = target;
+    public Link(Node sourceNode, Node targetNode) {
+        this.sourceNode=sourceNode;
+        this.targetNode=targetNode;
+        this.source = sourceNode.getId();
+        this.target = targetNode.getId();
         this.value =1;
     }
 

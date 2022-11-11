@@ -10,6 +10,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.List;
 
 import static com.example.backend.utils.GraphUtil.isCollide;
 
@@ -72,7 +73,7 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService {
 
     //通过限制出现次数来筛选关键词节点,并且去掉link中的source节点
     @Override
-    public ArrayList<Node> selectNodeByMinValue(ArrayList<Node> nodes, int minvalue) {
+    public List<Node> selectNodeByMinValue(List<Node> nodes, int minvalue) {
         for (int i=0;i< nodes.size();i++){
             Node node = nodes.get(i);
             if(node.getSymbolSize()<minvalue){
@@ -118,7 +119,7 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService {
 //                        if(node.getYear()>paper.getYear()){
 //                            node.setYear(paper.getYear());
 //                        }
-                        node.setSymbolSize(node.getSymbolSize()+1);
+                        node.setValue(node.getValue()+1);
                         break;
                     }
                 }
@@ -158,11 +159,11 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService {
                         continue;
                     }
                     //比较，年份小的为起点，大的为终点
-                    String source = ni.getYear()<nj.getYear()?ni.getId():nj.getId();
-                    String target = ni.getYear()<nj.getYear()?nj.getId():ni.getId();
+                    Node sourceNode = ni.getYear()<nj.getYear()?ni:nj;
+                    Node targetNode = ni.getYear()<nj.getYear()?nj:ni;
                     //检查是否已经有连线，有则加粗，无则创建
-                    if(!Link.isExistAndAdjuestIt(source,target,links)){
-                        Link temp = new Link(source,target);
+                    if(!Link.isExistAndAdjuestIt(sourceNode.getId(),targetNode.getId(),links)){
+                        Link temp = new Link(sourceNode,targetNode);
                         links.add(temp);
                     }
                 }
@@ -274,7 +275,7 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService {
         for(int i=beginYear;i<=endYear;i++){
             categories.add(new Category(String.valueOf(i)));
         }
-        return JSON.toJSONString(new KeyWordSequenceReturnedJson(nodes,links,categories));
+        return JSON.toJSONString(new ReturnedJson(nodes,links,categories));
     }
 
 

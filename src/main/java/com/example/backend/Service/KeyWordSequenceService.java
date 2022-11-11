@@ -6,6 +6,7 @@ import com.example.backend.Objects.TempPaper;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Random;
 
 /**
@@ -24,7 +25,7 @@ public interface KeyWordSequenceService {
     ArrayList<TempPaper> selectPaperByYear(ArrayList<TempPaper> papers, int begin, int end);
 
     //通过限制出现次数来筛选关键词节点,并且去掉link中的source节点
-    ArrayList<Node> selectNodeByMinValue(ArrayList<Node> nodes, int minvalue);
+    List<Node> selectNodeByMinValue(List<Node> nodes, int minvalue);
 
     ArrayList<Node> getNodes(ArrayList<TempPaper> papers);
 

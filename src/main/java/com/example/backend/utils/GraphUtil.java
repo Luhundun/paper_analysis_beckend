@@ -4,6 +4,7 @@ import com.example.backend.Objects.Link;
 import com.example.backend.Objects.Node;
 
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  * @ClassName: GraphUtil
@@ -30,7 +31,7 @@ public class GraphUtil {
     }
 
     //让link中sourceNode与ArrayList中的sourceNode匹配,从而减少后续的算法复杂度
-    public static void matchNode(ArrayList<Node> nodes,ArrayList<Link> links){
+    public static void matchNode(List<Node> nodes, List<Link> links){
         for (Link link:links){
             for(Node node:nodes){
                 if(link.getSource().equals(node.getId())){
@@ -45,9 +46,8 @@ public class GraphUtil {
 
 
     //计算点的入度和出度
-    public static void computeDegree(ArrayList<Node> nodes,ArrayList<Link> links){
-        //首先要保证link中已经有了node的地址，否则后续复杂度极高
-        matchNode(nodes,links);
+    public static void computeDegree(List<Node> nodes,List<Link> links){
+
         for(int i=0;i<links.size();i++){
             Link link = links.get(i);
             //去掉空的情况
@@ -63,8 +63,18 @@ public class GraphUtil {
     }
 
     //消除孤立点
-    public static void deleteSingleNode(ArrayList<Node> nodes,ArrayList<Link> links){
+    public static void deleteSingleNode(List<Node> nodes,List<Link> links){
         //首先要计算点的入度和出度
+//        computeDegree(nodes,links);
+//
+//        for(int i=0;i<nodes.size();i++){
+//            Node node = nodes.get(i);
+//            //无意义的就从列表移除
+//            if(node.getInDegree()+node.getOutDegree()==0){
+//                nodes.remove(i);
+//                i--;
+//            }
+//        }
         computeDegree(nodes,links);
 
         for(int i=0;i<nodes.size();i++){
@@ -73,22 +83,30 @@ public class GraphUtil {
             if(node.getInDegree()+node.getOutDegree()==0){
                 nodes.remove(i);
                 i--;
-            }
-        }
-
-        computeDegree(nodes,links);
-
-        for(int i=0;i<nodes.size();i++){
-            Node node = nodes.get(i);
-            //无意义的就从列表移除
-            if(node.getInDegree()+node.getOutDegree()==0){
-                nodes.remove(i);
-                i--;
-                System.out.println("移除了"+node);
+//                System.out.println("移除了"+node);
             }else{
 
-                System.out.println("没有移除"+node);
+//                System.out.println("没有移除"+node);
             }
         }
+    }
+
+    public static List<Node> selectNodeByMinValue(List<Node> nodes, int minvalue) {
+        for (int i=0;i< nodes.size();i++){
+            Node node = nodes.get(i);
+            if(node.getValue()<minvalue){
+                nodes.remove(i);
+//                //二分查找可以优化加速
+//                for(int j=0;j<links.size();j++){
+//                    Link link = links.get(j);
+//                    if(link.getSource()==node.getId()||link.getTarget()==node.getId()){
+//                        links.remove(j);
+//                        j--;
+//                    }
+//                }
+                i--;
+            }
+        }
+        return nodes;
     }
 }
