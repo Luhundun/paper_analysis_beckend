@@ -21,10 +21,10 @@ public class GraphUtil {
     }
 
     //微调线条长度
-    public static void adjustLineWidth(ArrayList<Link> links){
+    public static void adjustLineWidth(List<Link> links){
         for (Link link:links){
             int value = link.getValue();
-            value = (int) Math.ceil(Math.sqrt(value*3-2));
+            value = (int) Math.ceil(Math.sqrt(value*4-2));
             Link.LineStyle style = new Link.LineStyle(value);
             link.setLineStyle(style);
         }

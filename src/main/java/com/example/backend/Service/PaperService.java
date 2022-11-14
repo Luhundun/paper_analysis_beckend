@@ -6,7 +6,6 @@ import com.example.backend.Objects.Paper;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -18,9 +17,14 @@ public interface PaperService extends IService<Paper> {
 
     List<Paper> getPapers() throws IOException;
 
-    List<Node> getNodesForInstitutes(List<Paper> papers);
+    List<Node> getNodesByType(List<Paper> papers, String type);
+//    List<Node> getNodesForInstitutes(List<Paper> papers);
+//
+//    ArrayList<Node> getNodesForKeyword(List<Paper> papers);
 
-    List<Link> getLinks(List<Paper> papers, List<Node> nodes);
+    void adjustNodeSizeWithABaseValue(List<Node> nodes, int base);
+
+    List<Link> getLinksByType(List<Paper> papers, List<Node> nodes, String type);
 
     String splitNodesByUnionAndGenJson(List<Node> nodes, List<Link> links, int limit);
 }

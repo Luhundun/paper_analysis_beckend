@@ -6,12 +6,10 @@ import com.example.backend.Objects.Paper;
 import com.example.backend.Service.KeyWordSequenceService;
 import com.example.backend.Service.PaperService;
 import com.example.backend.utils.GraphUtil;
-import org.junit.jupiter.api.Named;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import javax.annotation.Resource;
 import java.io.IOException;
 import java.util.List;
 
@@ -36,12 +34,12 @@ class TempPaperAnalysisBackendApplicationTests {
         Node.num=0;
         List<Paper> papers = paperService.getPapers();
 
-        List<Node> nodes = paperService.getNodesForInstitutes(papers);
+//        List<Node> nodes = paperService.getNodesForInstitutes(papers);
+//
+//        GraphUtil.selectNodeByMinValue(nodes,2);
+//        List<Link> links = paperService.getLinksByType(papers,nodes);
 
-        GraphUtil.selectNodeByMinValue(nodes,2);
-        List<Link> links = paperService.getLinks(papers,nodes);
-
-        System.out.println(paperService.splitNodesByUnionAndGenJson(nodes,links,1));
+//        System.out.println(paperService.splitNodesByUnionAndGenJson(nodes,links,1));
 
     }
 

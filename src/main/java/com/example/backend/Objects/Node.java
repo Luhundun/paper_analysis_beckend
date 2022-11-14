@@ -17,7 +17,7 @@ import java.util.Objects;
 @Data
 public class Node {
 
-    public static int num=1;
+    public static  int num=1;
     @JSONField(name = "id")
     protected String id;
     @JSONField(name = "name")

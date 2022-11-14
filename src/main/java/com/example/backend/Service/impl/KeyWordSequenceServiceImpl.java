@@ -194,8 +194,8 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService {
         //调整每个node在图中的大小,原大小用value记录
         for(int i=0;i<nodes.size();i++){
             KeyWordSequenceNode node=(KeyWordSequenceNode) (nodes.get(i));
-            double size = node.getSymbolSize();
-            node.setValue(size);
+            double size = node.getValue();
+            node.setSymbolSize(size);
             //用这个公式改变圆的大小
             size = Math.sqrt(size*10);
             //设置上限

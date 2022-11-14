@@ -32,19 +32,31 @@ public class PaperServiceImpl extends ServiceImpl<PaperMapper, Paper>
         return papers;
     }
 
+    /**
+     * @Description: 根据需求生成关系节点图（机构、关键字、作者）
+     * @param: [papers]
+     * @return: java.util.ArrayList<com.example.backend.Objects.Node>
+     * @auther: Lu Ning
+     * @date: 2022/11/11 10:57
+     */
     @Override
-    public ArrayList<Node> getNodesForInstitutes(List<Paper> papers){
+    public List<Node> getNodesByType(List<Paper> papers, String type){
         ArrayList<Node> nodes = new ArrayList<>();
-        String[] institutes;
+        String[] elements;
         for (Paper paper:papers) {
-            institutes = paper.getInstitues().split(";");
-            for (String institute : institutes) {
+            switch (type){
+                case "institue": elements = paper.getInstitues().split(";"); break;
+                case "author": elements = paper.getAuthors().split(";"); break;
+                case "keyword": elements = paper.getKeywords().split(";"); break;
+                default: elements = new String[1];
+            }
+            for (String element : elements) {
                 //可优化时间复杂度
                 //若关键字存在则增加大小
                 boolean isExist = false;
                 for (int i = 0; i < nodes.size(); i++) {
                     Node node = nodes.get(i);
-                    if (node.getName().equals(institute)) {
+                    if (node.getName().equals(element)) {
                         isExist = true;
                         node.setValue(node.getValue() + 1);
                         break;
@@ -52,39 +64,99 @@ public class PaperServiceImpl extends ServiceImpl<PaperMapper, Paper>
                 }
                 //若关键字不存在则创建
                 if (!isExist) {
-                    Node temp = new Node(institute);
+                    Node temp = new Node(element);
                     nodes.add(temp);
                 }
             }
         }
-
         //微调点的大小
+        adjustNodeSizeWithABaseValue(nodes,10);
+        return nodes;
+    }
+
+    /**
+     * @Description: 生成关键字的关系图
+     * @param: [papers]
+     * @return: java.util.ArrayList<com.example.backend.Objects.Node>
+     * @auther: Lu Ning
+     * @date: 2022/11/11 10:59
+     */
+    @Deprecated
+    public ArrayList<Node> getNodesForKeyword(List<Paper> papers){
+        ArrayList<Node> nodes = new ArrayList<>();
+        String[] keywords;
+        for (Paper paper:papers) {
+            keywords = paper.getKeywords().split(";");
+            for (String keyword : keywords) {
+                //可优化时间复杂度
+                //若关键字存在则增加大小
+                boolean isExist = false;
+                for (int i = 0; i < nodes.size(); i++) {
+                    Node node = nodes.get(i);
+                    if (node.getName().equals(keyword)) {
+                        isExist = true;
+                        node.setValue(node.getValue() + 1);
+                        break;
+                    }
+                }
+                //若关键字不存在则创建
+                if (!isExist) {
+                    Node temp = new Node(keyword);
+                    nodes.add(temp);
+                }
+            }
+        }
+        //微调点的大小
+        adjustNodeSizeWithABaseValue(nodes,10);
+        return nodes;
+    }
+
+    /**
+     * @Description: 用一个基准值调整点的大小
+     * @param: [node, base]
+     * @return: void
+     * @auther: Lu Ning
+     * @date: 2022/11/11 10:58
+     */
+    @Override
+    public void adjustNodeSizeWithABaseValue(List<Node> nodes, int base){
         for(int i=0;i<nodes.size();i++){
             Node node=nodes.get(i);
             double size = node.getValue();
             //用这个公式改变圆的大小
-            size = Math.sqrt(size*10);
+            size = Math.sqrt(size*base);
             node.setSymbolSize(size);
         }
-
-        return nodes;
     }
 
+    /**
+     * @Description: 根据类型生成Link
+     * @param: [papers, nodes, type]
+     * @return: java.util.List<com.example.backend.Objects.Link>
+     * @auther: Lu Ning
+     * @date: 2022/11/11 11:22
+     */
     @Override
-    public List<Link> getLinks(List<Paper> papers, List<Node> nodes){
+    public List<Link> getLinksByType(List<Paper> papers, List<Node> nodes, String type) {
         ArrayList<Link> links = new ArrayList<>();
+        String[] elements;
         for (Paper paper:papers){
-            String[] institutes = paper.getInstitues().split(";");
-            int linkLength = institutes.length;
+            switch (type){
+                case "institue": elements = paper.getInstitues().split(";"); break;
+                case "author": elements = paper.getAuthors().split(";"); break;
+                case "keyword": elements = paper.getKeywords().split(";"); break;
+                default: elements = new String[1];
+            }
+            int linkLength = elements.length;
             //根据文章关键字获取关键字节点
             for(int i=0;i<linkLength-1;i++){
-                Node ni = Node.getInList(institutes[i],nodes);
+                Node ni = Node.getInList(elements[i],nodes);
                 //节点被筛选掉则略过
                 if(ni==null){
                     continue;
                 }
                 for (int j=i+1;j<linkLength;j++){
-                    Node nj = Node.getInList(institutes[j],nodes);
+                    Node nj = Node.getInList(elements[j],nodes);
                     //节点被筛选掉则略过
                     if (nj==null){
                         continue;

@@ -64,6 +64,8 @@ public class requestJsonController {
         GraphUtil.adjustLineWidth(links);
 
         return keyWordSequenceService.genJson(nodes,links,beginYear,endYear);
+
+
     }
 
     @ResponseBody
@@ -74,12 +76,15 @@ public class requestJsonController {
         Node.num = 0;
         List<Paper> papers = paperService.getPapers();
 
-        List<Node> nodes = paperService.getNodesForInstitutes(papers);
+        List<Node> nodes = paperService.getNodesByType(papers,"institue");
 
         GraphUtil.selectNodeByMinValue(nodes,minValue);
-        List<Link> links = paperService.getLinks(papers,nodes);
+        List<Link> links = paperService.getLinksByType(papers,nodes,"institue");
+        GraphUtil.adjustLineWidth(links);
 
         return paperService.splitNodesByUnionAndGenJson(nodes,links,limit);
+
+
     }
 
     @ResponseBody
@@ -90,11 +95,27 @@ public class requestJsonController {
         Node.num = 0;
         List<Paper> papers = paperService.getPapers();
 
-        List<Node> nodes = paperService.getNodesForInstitutes(papers);
+        List<Node> nodes = paperService.getNodesByType(papers,"author");
 
         GraphUtil.selectNodeByMinValue(nodes,minValue);
-        List<Link> links = paperService.getLinks(papers,nodes);
+        List<Link> links = paperService.getLinksByType(papers,nodes,"author");
+        GraphUtil.adjustLineWidth(links);
+        return paperService.splitNodesByUnionAndGenJson(nodes,links,limit);
+    }
 
+    @ResponseBody
+    @RequestMapping(value = "/getKeyJson",produces = "application/json;charset=UTF-8")
+    public String getKeyJson(@RequestParam(value = "related",defaultValue = "1") Integer related,
+                              @RequestParam(value = "limit",defaultValue = "1") Integer limit,
+                              @RequestParam(value = "minValue",defaultValue = "2") Integer minValue) throws IOException {
+        Node.num = 0;
+        List<Paper> papers = paperService.getPapers();
+
+        List<Node> nodes = paperService.getNodesByType(papers,"keyword");
+
+        GraphUtil.selectNodeByMinValue(nodes,minValue);
+        List<Link> links = paperService.getLinksByType(papers,nodes,"keyword");
+        GraphUtil.adjustLineWidth(links);
         return paperService.splitNodesByUnionAndGenJson(nodes,links,limit);
     }
 }
