@@ -31,7 +31,7 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService {
      * @auther: Lu Ning
      * @date: 2022/11/1 15:41
      */
-    @Override
+    @Deprecated
     public ArrayList<TempPaper> getPapers(String path) throws IOException {
         ArrayList<TempPaper> list = new ArrayList<>();
         BufferedReader reader = Files.newBufferedReader(Paths.get(path));
@@ -58,10 +58,10 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService {
     }
 
     //通过限制发表年份来筛选文章
-    @Override
-    public ArrayList<TempPaper> selectPaperByYear(ArrayList<TempPaper> papers, int begin, int end) {
+    @Deprecated
+    public ArrayList<Paper> selectPaperByYear(ArrayList<Paper> papers, int begin, int end) {
         for (int i=0;i< papers.size();i++){
-            TempPaper paper = papers.get(i);
+            Paper paper = papers.get(i);
             //去除不符合年份的文章，i--防止报错
             if(paper.getYear()<begin||paper.getYear()>end){
                 papers.remove(i);
@@ -100,15 +100,16 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService {
      * @date: 2022/11/1 16:14
      */
     @Override
-    public ArrayList<Node> getNodes(ArrayList<TempPaper> papers){
+    public ArrayList<Node> getNodes(List<Paper> papers){
 
         //按照文章发表年份预排序
-        papers.sort((a,b)->
-            a.getYear()-b.getYear()
-        );
+//        papers.sort((a,b)->
+//            a.getYear()-b.getYear()
+//        );
         ArrayList<Node> nodes = new ArrayList<>();
-        for (TempPaper paper:papers){
-            for (String keyword:paper.getKeywords()){
+        for (Paper paper:papers){
+            String[] keywordArray = paper.getKeywords().split(";");
+            for (String keyword:keywordArray){
                 //可优化时间复杂度
                 //若关键字存在则增加大小
                 boolean isExist = false;
@@ -141,19 +142,20 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService {
      * @date: 2022/11/1 16:30
      */
     @Override
-    public ArrayList<Link> getLinks(ArrayList<TempPaper> papers, ArrayList<Node> nodes){
+    public ArrayList<Link> getLinks(List<Paper> papers, ArrayList<Node> nodes){
         ArrayList<Link> links = new ArrayList<>();
-        for (TempPaper paper:papers){
-            int linkLength = paper.getKeywords().length;
+        for (Paper paper:papers){
+            String[] keywordArray = paper.getKeywords().split(";");
+            int linkLength = keywordArray.length;
             //根据文章关键字获取关键字节点
             for(int i=0;i<linkLength-1;i++){
-                KeyWordSequenceNode ni = (KeyWordSequenceNode)(Node.getInList(paper.getKeywords()[i],nodes));
+                KeyWordSequenceNode ni = (KeyWordSequenceNode)(Node.getInList(keywordArray[i],nodes));
                 //节点被筛选掉则略过
                 if(ni==null){
                     continue;
                 }
                 for (int j=i+1;j<linkLength;j++){
-                    KeyWordSequenceNode nj = (KeyWordSequenceNode)(Node.getInList(paper.getKeywords()[j],nodes));
+                    KeyWordSequenceNode nj = (KeyWordSequenceNode)(Node.getInList(keywordArray[j],nodes));
                     //节点被筛选掉则略过
                     if (nj==null){
                         continue;
@@ -174,7 +176,7 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService {
 
 
     @Override
-    public void genarateXY(ArrayList<Node> nodes, int beginYear, int endYear){
+    public ArrayList<Category> genarateXY(ArrayList<Node> nodes, int beginYear, int endYear){
         //根据年份信息判断出X轴被分割的块数
         int cols = endYear-beginYear+1;
         //年数间隔
@@ -191,6 +193,8 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService {
         double growX=1600/cols;
         double growY=1200/cols;
 
+        ArrayList<Category> categories = new ArrayList<>();
+
         //调整每个node在图中的大小,原大小用value记录
         for(int i=0;i<nodes.size();i++){
             KeyWordSequenceNode node=(KeyWordSequenceNode) (nodes.get(i));
@@ -202,6 +206,8 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService {
             if(size>widthX/4){
                 size=widthX/4;
             }
+            node.setLabel(new Node.Label(5+(int)size/2));
+
             node.setSymbolSize(size);
         }
 
@@ -221,10 +227,11 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService {
         for (int i=0;i<cols;i++){
             //这一列中生成的点要记录，保证圆不碰撞
             ArrayList<Double[]> points = new ArrayList<>();
-
+            boolean isExist=false;
             //目前还只是一年的gap，两年的需要改while内条件
             while (pn<length&&((KeyWordSequenceNode)(nodes.get(pn))).getYear()==beginYear+i*gap){
                 KeyWordSequenceNode node = (KeyWordSequenceNode)nodes.get(pn);
+                isExist = true;
                 //size为圆的半径，与node大小有关
                 double size=node.getSymbolSize();
 //                double scope=widthX-2*size;
@@ -259,22 +266,25 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService {
                 node.setCategory(i);
                 pn++;
             }
+            if(isExist){
+                categories.add(new Category(String.valueOf(i+beginYear)));
+            }
             //这一列结束后，生成下一列的基础坐标
             baseX+=growX;
             baseY-=growY;
         }
+        return categories;
     }
 
     //节点、link信息转成json
     @Override
-    public String genJson(ArrayList<Node> nodes, ArrayList<Link> links, int beginYear, int endYear){
+    public String genJson(ArrayList<Node> nodes, ArrayList<Link> links,ArrayList<Category> categories){
 //        String nodeJson = JSON.toJSONString(nodes);
 //        String linkJson = JSON.toJSONString(links);
 //        JSON.
-        ArrayList<Category> categories = new ArrayList<>();
-        for(int i=beginYear;i<=endYear;i++){
-            categories.add(new Category(String.valueOf(i)));
-        }
+//        for(int i=beginYear;i<=endYear;i++){
+//
+//        }
         return JSON.toJSONString(new ReturnedJson(nodes,links,categories));
     }
 

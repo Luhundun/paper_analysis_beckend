@@ -43,6 +43,9 @@ public class Node {
     @JSONField(name = "category")
     protected int category;
 
+    @JSONField(name = "label")
+    protected Label label;
+
     public Node() {
     }
     public Node(String name) {
@@ -94,4 +97,13 @@ public class Node {
     }
 
 
+    @Data
+    public static class Label{
+        @JSONField(name = "fontSize")
+        int fontSize;
+
+        public Label(int value) {
+            fontSize = value;
+        }
+    }
 }

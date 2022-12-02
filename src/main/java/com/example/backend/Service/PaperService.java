@@ -17,6 +17,8 @@ public interface PaperService extends IService<Paper> {
 
     List<Paper> getPapers() throws IOException;
 
+    List<Paper> getPapers(String rawPapers);
+
     List<Node> getNodesByType(List<Paper> papers, String type);
 //    List<Node> getNodesForInstitutes(List<Paper> papers);
 //

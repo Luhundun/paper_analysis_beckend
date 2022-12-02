@@ -85,8 +85,19 @@ public class GraphUtil {
                 i--;
 //                System.out.println("移除了"+node);
             }else{
-
 //                System.out.println("没有移除"+node);
+            }
+        }
+    }
+
+    //根据条件删除点
+    public static void deleteNode(List<Node> nodes,String name) {
+        for(int i=0;i<nodes.size();i++){
+            Node node = nodes.get(i);
+            //无意义的就从列表移除
+            if(node.getName().equals(name)){
+                nodes.remove(i);
+                i--;
             }
         }
     }

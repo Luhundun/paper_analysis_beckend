@@ -1,13 +1,11 @@
 package com.example.backend.Controller;
 
+import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.example.backend.Objects.*;
 import com.example.backend.Service.KeyWordSequenceService;
 import com.example.backend.Service.PaperService;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.CrossOrigin;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;
 import java.io.IOException;
@@ -33,26 +31,30 @@ public class requestJsonController {
     private PaperService paperService;
 
     @ResponseBody
-    @RequestMapping(value = "/getPicJson",produces = "application/json;charset=UTF-8")
+    @GetMapping(value = "/getPicJson",produces = "application/json;charset=UTF-8")
     public String getPicJson(@RequestParam(value = "related",defaultValue = "1") Integer related,
                              @RequestParam(value = "beginYear",defaultValue = "2017") Integer beginYear,
                              @RequestParam(value = "endYear",defaultValue = "2022") Integer endYear,
                              @RequestParam(value = "minValue",defaultValue = "2") Integer minValue) throws IOException {
         KeyWordSequenceNode.num=0;
-        String filePath;
-        switch(related){
-            case 4:
-                filePath="src/main/resources/static/cnki_低成本发动机_篇关摘.txt";break;
-            case 3:
-                filePath="src/main/resources/static/cnki_发动机装配_篇关摘.txt";break;
-            case 2:
-                filePath="src/main/resources/static/cnki_数据增强.txt";break;
-            case 1:
-            default:
-                filePath="src/main/resources/static/cnki_可解释.txt";break;
-        }
-        ArrayList<TempPaper> papers = keyWordSequenceService.getPapers(filePath);
-        keyWordSequenceService.selectPaperByYear(papers,beginYear,endYear);
+//        String filePath;
+//        switch(related){
+//            case 4:
+//                filePath="src/main/resources/static/cnki_低成本发动机_篇关摘.txt";break;
+//            case 3:
+//                filePath="src/main/resources/static/cnki_发动机装配_篇关摘.txt";break;
+//            case 2:
+//                filePath="src/main/resources/static/cnki_数据增强.txt";break;
+//            case 1:
+//            default:
+//                filePath="src/main/resources/static/cnki_可解释.txt";break;
+//        }
+//        ArrayList<TempPaper> papers = keyWordSequenceService.getPapers(filePath);
+        QueryWrapper<Paper> wrapper = new QueryWrapper<>();
+        wrapper.ge("year",beginYear).le("year",endYear).orderByAsc("year");
+
+        List<Paper> papers = paperService.list(wrapper);
+//        keyWordSequenceService.selectPaperByYear(papers,beginYear,endYear);
         ArrayList<Node> nodes = keyWordSequenceService.getNodes(papers);
         GraphUtil.selectNodeByMinValue(nodes,minValue);
         ArrayList<Link> links = keyWordSequenceService.getLinks(papers,nodes);
@@ -60,12 +62,48 @@ public class requestJsonController {
         //删除孤立点
         GraphUtil.deleteSingleNode(nodes,links);
 
-        keyWordSequenceService.genarateXY(nodes,beginYear,endYear);
+        ArrayList<Category> categories = keyWordSequenceService.genarateXY(nodes,beginYear,endYear);
         GraphUtil.adjustLineWidth(links);
 
-        return keyWordSequenceService.genJson(nodes,links,beginYear,endYear);
+        return keyWordSequenceService.genJson(nodes,links,categories);
+    }
 
+    @ResponseBody
+    @GetMapping(value = "/getPicJsonBySearch",produces = "application/json;charset=UTF-8")
+    public String getPicJsonBySearch(@RequestParam(value = "paper",defaultValue = "") String rawPapers,
+                             @RequestParam(value = "beginYear",defaultValue = "2017") Integer beginYear,
+                             @RequestParam(value = "endYear",defaultValue = "2022") Integer endYear,
+                             @RequestParam(value = "minValue",defaultValue = "2") Integer minValue) throws IOException {
+        KeyWordSequenceNode.num=0;
+//        String filePath;
+//        switch(related){
+//            case 4:
+//                filePath="src/main/resources/static/cnki_低成本发动机_篇关摘.txt";break;
+//            case 3:
+//                filePath="src/main/resources/static/cnki_发动机装配_篇关摘.txt";break;
+//            case 2:
+//                filePath="src/main/resources/static/cnki_数据增强.txt";break;
+//            case 1:
+//            default:
+//                filePath="src/main/resources/static/cnki_可解释.txt";break;
+//        }
+//        ArrayList<TempPaper> papers = keyWordSequenceService.getPapers(filePath);
+        QueryWrapper<Paper> wrapper = new QueryWrapper<>();
+        wrapper.ge("year",beginYear).le("year",endYear).orderByAsc("year");
 
+        List<Paper> papers = paperService.list(wrapper);
+//        keyWordSequenceService.selectPaperByYear(papers,beginYear,endYear);
+        ArrayList<Node> nodes = keyWordSequenceService.getNodes(papers);
+        GraphUtil.selectNodeByMinValue(nodes,minValue);
+        ArrayList<Link> links = keyWordSequenceService.getLinks(papers,nodes);
+
+        //删除孤立点
+        GraphUtil.deleteSingleNode(nodes,links);
+
+        ArrayList<Category> categories = keyWordSequenceService.genarateXY(nodes,beginYear,endYear);
+        GraphUtil.adjustLineWidth(links);
+
+        return keyWordSequenceService.genJson(nodes,links,categories);
     }
 
     @ResponseBody
@@ -112,7 +150,8 @@ public class requestJsonController {
         List<Paper> papers = paperService.getPapers();
 
         List<Node> nodes = paperService.getNodesByType(papers,"keyword");
-
+        //删除与搜索同名的关键字
+        GraphUtil.deleteNode(nodes,"可解释性");
         GraphUtil.selectNodeByMinValue(nodes,minValue);
         List<Link> links = paperService.getLinksByType(papers,nodes,"keyword");
         GraphUtil.adjustLineWidth(links);

@@ -1,6 +1,7 @@
 package com.example.backend.Service.impl;
 
 import com.alibaba.fastjson.JSON;
+import com.alibaba.fastjson.JSONArray;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.example.backend.Objects.*;
@@ -29,6 +30,13 @@ public class PaperServiceImpl extends ServiceImpl<PaperMapper, Paper>
     @Override
     public List<Paper> getPapers() throws IOException {
         List<Paper> papers = paperMapper.selectList(new QueryWrapper<>());
+        return papers;
+    }
+
+    @Override
+    public List<Paper> getPapers(String rawPapers){
+        List<Paper> papers = new ArrayList<>();
+        papers = JSONArray.parseArray(rawPapers, Paper.class);
         return papers;
     }
 
@@ -70,7 +78,7 @@ public class PaperServiceImpl extends ServiceImpl<PaperMapper, Paper>
             }
         }
         //微调点的大小
-        adjustNodeSizeWithABaseValue(nodes,10);
+        adjustNodeSizeWithABaseValue(nodes,9);
         return nodes;
     }
 
@@ -124,8 +132,9 @@ public class PaperServiceImpl extends ServiceImpl<PaperMapper, Paper>
             Node node=nodes.get(i);
             double size = node.getValue();
             //用这个公式改变圆的大小
-            size = Math.sqrt(size*base);
+            size = Math.log(size*base)/Math.log(1.5);
             node.setSymbolSize(size);
+            node.setLabel(new Node.Label(1+(int)(size)));
         }
     }
 

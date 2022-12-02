@@ -81,6 +81,8 @@
         </dependency>
     </dependencies>
 
+
+
     <build>
         <plugins>
             <plugin>
@@ -89,7 +91,7 @@
                 <configuration>
                     <excludes>
                         <exclude>
-                            <groupId>org.projectlombok</groupId>
+                            <groupId>org.example</groupId>
                             <artifactId>lombok</artifactId>
                         </exclude>
                     </excludes>
