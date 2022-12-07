@@ -2,6 +2,7 @@ package com.example.backend.Objects;
 
 import java.io.Serializable;
 
+import com.alibaba.fastjson.annotation.JSONField;
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;
 import lombok.Data;
@@ -12,6 +13,22 @@ import lombok.Data;
  */
 @Data
 public class Paper implements Serializable {
+    public Paper(Long pid,String paperName, String authors, String institues, String journal, Integer year, String keywords, String abs, String source, String url) {
+        this.pid=pid;
+        this.paperName = paperName;
+        this.authors = authors;
+        this.institues = institues;
+        this.journal = journal;
+        this.year = year;
+        this.keywords = keywords;
+        this.abs = abs;
+        this.source = source;
+        this.url = url;
+    }
+
+    public Paper() {
+    }
+
     /**
      * 
      */
@@ -21,39 +38,54 @@ public class Paper implements Serializable {
     /**
      * 
      */
+    @JSONField(name="title")
     private String paperName;
 
     /**
      * 
      */
+    @JSONField(name="author")
+
     private String authors;
 
     /**
      * 
      */
+    @JSONField(name="institution")
+
     private String institues;
 
     /**
      * 
      */
+    @JSONField(name="database")
     private String journal;
 
     /**
      * 
      */
+    @JSONField(name="time")
     private Integer year;
 
     /**
      * 
      */
+    @JSONField(name="keywords")
     private String keywords;
 
     /**
      * 
      */
+    @JSONField(name="abstract")
     private String abs;
 
+    @JSONField(name="source")
+    private String source;
+    private String url;
+
     private static final long serialVersionUID = 1L;
+
+
 
     @Override
     public boolean equals(Object that) {
@@ -106,7 +138,7 @@ public class Paper implements Serializable {
         sb.append(", year=").append(year);
         sb.append(", keywords=").append(keywords);
         sb.append(", abs=").append(abs);
-        sb.append(", serialVersionUID=").append(serialVersionUID);
+//        sb.append(", serialVersionUID=").append(serialVersionUID);
         sb.append("]");
         return sb.toString();
     }

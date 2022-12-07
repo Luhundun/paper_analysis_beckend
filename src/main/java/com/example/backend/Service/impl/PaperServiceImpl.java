@@ -2,6 +2,8 @@ package com.example.backend.Service.impl;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
+import com.alibaba.fastjson.JSONObject;
+import com.alibaba.fastjson.TypeReference;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.example.backend.Objects.*;
@@ -35,9 +37,12 @@ public class PaperServiceImpl extends ServiceImpl<PaperMapper, Paper>
 
     @Override
     public List<Paper> getPapers(String rawPapers){
-        List<Paper> papers = new ArrayList<>();
-        papers = JSONArray.parseArray(rawPapers, Paper.class);
-        return papers;
+
+//        JSON.parseArray()
+//        JSON.parseO
+        Collection<Paper> papers = JSON.parseObject(rawPapers, new TypeReference<HashMap<String,Paper>>() {}).values();
+
+        return new ArrayList<>(papers);
     }
 
     /**
@@ -77,8 +82,7 @@ public class PaperServiceImpl extends ServiceImpl<PaperMapper, Paper>
                 }
             }
         }
-        //微调点的大小
-        adjustNodeSizeWithABaseValue(nodes,9);
+
         return nodes;
     }
 
@@ -115,7 +119,7 @@ public class PaperServiceImpl extends ServiceImpl<PaperMapper, Paper>
             }
         }
         //微调点的大小
-        adjustNodeSizeWithABaseValue(nodes,10);
+
         return nodes;
     }
 
@@ -127,14 +131,14 @@ public class PaperServiceImpl extends ServiceImpl<PaperMapper, Paper>
      * @date: 2022/11/11 10:58
      */
     @Override
-    public void adjustNodeSizeWithABaseValue(List<Node> nodes, int base){
+    public void adjustNodeSizeWithABaseValue(List<Node> nodes, int base,int labelSize){
         for(int i=0;i<nodes.size();i++){
             Node node=nodes.get(i);
             double size = node.getValue();
             //用这个公式改变圆的大小
-            size = Math.log(size*base)/Math.log(1.5);
+            size = Math.log(size*base)/Math.log(1.2)+5;
             node.setSymbolSize(size);
-            node.setLabel(new Node.Label(1+(int)(size)));
+            node.setLabel(new Node.Label(labelSize+(int)(size)/5));
         }
     }
 
@@ -242,22 +246,6 @@ public class PaperServiceImpl extends ServiceImpl<PaperMapper, Paper>
             categories.add(new Category(String.valueOf(i)));
         }
         return JSON.toJSONString(new ReturnedJson(nodes,links,categories));
-
-//        HashMap<String, List<Node>> rootMap = new HashMap<>();
-//        //
-//        for (Map.Entry<Node,Node> entry:uf.getMap().entrySet()){
-//            //如果根存在，那么将这个节点添加到根的list中
-//            if (rootMap.containsKey(entry.getValue().getId())){
-//                rootMap.get(entry.getValue().getId()).add(entry.getKey());
-//            }
-//            //不存在就先建立根并添加节点
-//            else {
-//                ArrayList<Node> temp = new ArrayList<>();
-//                temp.add(entry.getKey());
-//                rootMap.put(entry.getValue().getId(),temp);
-//            }
-//
-//        }
 
     }
 

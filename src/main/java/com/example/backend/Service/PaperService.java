@@ -24,7 +24,7 @@ public interface PaperService extends IService<Paper> {
 //
 //    ArrayList<Node> getNodesForKeyword(List<Paper> papers);
 
-    void adjustNodeSizeWithABaseValue(List<Node> nodes, int base);
+    void adjustNodeSizeWithABaseValue(List<Node> nodes, int nodeSize,int labelSize);
 
     List<Link> getLinksByType(List<Paper> papers, List<Node> nodes, String type);
 
