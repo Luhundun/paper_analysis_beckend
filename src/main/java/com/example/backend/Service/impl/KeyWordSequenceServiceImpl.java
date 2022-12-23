@@ -58,8 +58,8 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService {
     }
 
     //通过限制发表年份来筛选文章
-    @Deprecated
-    public ArrayList<Paper> selectPaperByYear(ArrayList<Paper> papers, int begin, int end) {
+    @Override
+    public void selectPaperByYear(List<Paper> papers, int begin, int end) {
         for (int i=0;i< papers.size();i++){
             Paper paper = papers.get(i);
             //去除不符合年份的文章，i--防止报错
@@ -68,7 +68,6 @@ public class KeyWordSequenceServiceImpl implements KeyWordSequenceService {
                 i--;
             }
         }
-        return papers;
     }
 
     //通过限制出现次数来筛选关键词节点,并且去掉link中的source节点

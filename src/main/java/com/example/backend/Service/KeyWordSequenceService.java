@@ -23,7 +23,7 @@ public interface KeyWordSequenceService {
 //    ArrayList<TempPaper> selectPaperByYear(ArrayList<TempPaper> papers, int begin, int end);
 
     //通过限制发表年份来筛选文章
-    ArrayList<Paper> selectPaperByYear(ArrayList<Paper> papers, int begin, int end);
+    void selectPaperByYear(List<Paper> papers, int begin, int end);
 
     //通过限制出现次数来筛选关键词节点,并且去掉link中的source节点
     List<Node> selectNodeByMinValue(List<Node> nodes, int minvalue);

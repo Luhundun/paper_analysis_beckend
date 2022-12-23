@@ -87,7 +87,7 @@ public class requestJsonController {
         if(papers.size()==0){
             return  keyWordSequenceService.genJson(null,null,null);
         }
-//        keyWordSequenceService.selectPaperByYear(papers,beginYear,endYear);
+        keyWordSequenceService.selectPaperByYear(papers,beginYear,endYear);
         ArrayList<Node> nodes = keyWordSequenceService.getNodes(papers);
         GraphUtil.selectNodeByMinValue(nodes,minValue);
         ArrayList<Link> links = keyWordSequenceService.getLinks(papers,nodes);
